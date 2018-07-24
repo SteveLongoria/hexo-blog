@@ -21,7 +21,8 @@ highlight:
 nav:
   home: .
   archive: archives
-  # about: about
+  about: https://stevelongoria.net
+  contact: https://stevelongoria.net
   # rss: atom.xml
 
 # hexo-renderer-sass
