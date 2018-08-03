@@ -82,8 +82,16 @@
     box-sizing: border-box;
 }
 
+#main-button:focus, #main-button:hover, button:focus, button:hover, input[type=button]:focus, input[type=button]:hover, input[type=reset]:focus, input[type=reset]:hover, input[type=submit]:focus, input[type=submit]:hover {
+    color: #fff;
+    border-color: #ffda24;
+    outline: 0;
+    background-color: #ffda24;
+}
+
 .newsletter-title {
 	font-size: 20px;
+	margin-bottom: 6px;
 }
 
 .newsletter-description {
