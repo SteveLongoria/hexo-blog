@@ -1,7 +1,7 @@
 ---
 title: Google Doesn't Comment About Ad Fraud During Google Marketing Live 2018 Keynote
 date: 2018-08-22 16:11:38
-tags: [Google Marketing Live 2018, Review]
+tags: [Google Marketing Live 2018, Review, Highlights]
 ---
 
 Highlights:
