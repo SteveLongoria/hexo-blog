@@ -1,5 +1,5 @@
 ---
-title: How I Made Over $754.75 From Just One Blog Post
+title: How I Made $754.75 From Just One Blog Post
 date: 2018-09-01 14:47:56
 tags: [Blogging, Make Money Blogging, Make Money Online]
 ---
