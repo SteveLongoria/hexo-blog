@@ -1,7 +1,7 @@
 ---
 title: Is Your Website Showing As 'Not Secure' In The Chrome Browser?
 date: 2018-08-11 18:32:33
-tags: [SSL, HTTPS, Chrome Browser]
+tags: [SSL, HTTPS, Chrome, Browser]
 ---
 
 With the release of Google Chrome 68 on July 24th, 2018, if your website does not have an SSL Certificate (HTTPS) then Google Chrome will start showing your website visitors a 'Not Secure' message next to the address bar. See below for an example!

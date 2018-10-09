@@ -1,7 +1,7 @@
 ---
 title: "Case Study: How I Created An Agency's First Successful Digital Ad Campaign"
 date: 2018-09-15 18:31:03
-tags: [Case Study, Marketing Agency, Increase Sales]
+tags: [Agency, Sales, Google, Ad, Adwords, Campaign]
 ---
 
 <center>{% asset_img amcasestudy.png Google Ad Stats %}</center>

@@ -2,7 +2,7 @@
 
 title: You're Tired Of Wordpress And Don't Know What Blog Platform To Use
 date: 2018-07-23 18:35:35
-tags: [Blog Platforms, 2018, Wordpress Alternative]
+tags: [Blog, Platforms, 2018, Wordpress, Alternative]
 ---
 
 You're so tired of having to deal with Wordpress plugin and theme updates, plugin compatibility, security, page load speed, the list goes on and on.

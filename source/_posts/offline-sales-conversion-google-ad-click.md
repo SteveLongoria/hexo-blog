@@ -1,7 +1,7 @@
 ---
 title: How To Track Offline Sales Conversions From Google Ad Clicks
 date: 2018-10-02 15:52:36
-tags: [Offline Sales Conversion, Google Ads, Adwords, Conversion Tracking]
+tags: [Offline, Sales, Conversion, Google, Ad, Clicks, Adwords, Conversion, Tracking]
 ---
 
 It's easy to track sales conversion when you're sending ad traffic to an ecommerce store or sales funnel where payments are handled online. 

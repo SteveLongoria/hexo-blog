@@ -1,7 +1,7 @@
 ---
 title: How To Track Offline Sales Conversions From Google Ad Calls
 date: 2018-10-08 19:17:05
-tags: [Offline Sales Conversion, Google Ad Calls, Adwords, Conversion Tracking]
+tags: [Offline, Sales, Conversion, Google, Ad, Calls, Adwords, Conversion, Tracking]
 ---
 
 When you're running a Google Search Ad campaign for a business that is handling sales offline over the phone or in person it's difficult to accurately track your ROI to the ad and keyword level, which is crucial if you want to optimize your Google Search Ad campaign to maximize your ROI.
