@@ -28,7 +28,7 @@ You can achieve this by importing [these JavaScript files found int his repo](ht
 
 <center>{% asset_img jscode.png JS Code %}</center>
 
-After you have that setup, every Google Ad visitor that fills out that form and submits it will not have their unique Google Click ID sent along with their name, email, etc. You'll want to store this info in a CRM and keep track of sales using that CRM. You then export and upload this CRM data to Google Ads every month and Google will connect the dots for us so to speak.
+After you have that setup, every Google Ad visitor that fills out that form and submits it will now have their unique Google Click ID sent along with their name, email, etc. You'll want to store this info in a CRM and keep track of sales using that CRM. You then export and upload this CRM data to Google Ads every month and Google will connect the dots for us so to speak.
 
 That's it, go implement this in your campaigns and let me know how you fare! In my next post I'll explain how to setup Offline Sales Conversion Tracking for calls so stay tuned!
 
