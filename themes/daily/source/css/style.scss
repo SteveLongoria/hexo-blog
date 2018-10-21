@@ -9,6 +9,7 @@
 
 @import './mobile';
 
+/* Main Newsletter CTA Button */
 #main-button {
     display: inline-block;
     height: 38px;
@@ -36,15 +37,52 @@
     background-color: #ffda24;
 }
 
+
+
+
 .newsletter-title {
 	font-size: 20px;
+	color: #ffffff;
 	margin-bottom: 6px;
 }
 
 .newsletter-description {
 	font-size: 14px;
+	color: #ffffff;
 }
 
 #footer-text {
 	text-align: center;
+}
+
+/* Newsletter Optin Form */
+
+input, button {
+  font: inherit;
+  border: 0;
+  &:focus {
+    outline: none;
+  }
+}
+
+form {
+  display: flex; 
+  grid-column: 2;
+  justify-content: center;
+  margin: 10px 0 0 0;
+}
+
+input {
+  padding: 0.5em 0.75em;
+  width: 200px;
+}
+
+button {
+  padding: 0.5em 0.75em;
+  color: #ffffff;
+  background-color: #00667f; 
+  width: 70px;
+  &:hover {
+  	background-color: #4dc4ce
+  }
 }
