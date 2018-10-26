@@ -45,3 +45,5 @@ So after 9 months here are the stats of the campaign:
 -4 new clients at a yearly value of 12,800 on average (2 more potentials that signed up for the Google Ad Free Trial and will be charged $500/mo after 14-days)
 
 -217% ROI in the first year, even more if they stay on board for 2 years or upsell them on more services and this doesn't count the 2 free trial signups since we don't know if they'll stay on past the 14-days yet.
+
+__UPDATE: You can see the new numbers for this case study [here](https://stevelongoria.net/casestudy/).__
