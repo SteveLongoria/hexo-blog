@@ -1,5 +1,5 @@
 ---
-title: How To Create A Custom Drip Form Using CSS Flexbox
+title: How To Create A Custom Drip Optin Form Using CSS Flexbox
 date: 2018-11-03 14:37:31
 tags: [CSS, Flexbox, Drip, Marketing, Automation, Custom, Form]
 ---
@@ -8,7 +8,11 @@ I switched over to [Drip](https://getdrip.com) from [MailChimp](https://mailchim
 
 I haven't been a big fan of the Drip Form Widgets simply because I don't like pop-ups. I also like to have full control over how the optin form functions and how it looks. I personally like inline forms, where you just have the form on the page like I have on my blog if you scroll down to the bottom. I also like 2-step optin where the visitor clicks on the button and it opens up a pop-up window to optin. This is how I prefer to do pop-ups simply because they're "user initiated". The visitor decides when the pop-up appears.
 
-In this post I'm going to show you how to create a custom 'inline' email form to sync with your Drip account.
+In this post I'm going to show you how to create a custom 'inline' email form to sync with your Drip account. 
+
+It'll look something like this by default but you can customize however you'd like:
+
+<center>{% asset_img flexboxform.png flexboxform %}</center>
 
 ## Create Your Form
 
