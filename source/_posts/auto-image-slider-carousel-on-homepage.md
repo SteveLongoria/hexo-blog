@@ -1,7 +1,7 @@
 ---
 title: Should You Use An Auto Image Carousel or Slider On Your Website Homepage?
 date: 2018-12-27 18:15:39
-tags:
+tags: [Image, Carousel, Web, Design]
 ---
 
 9 times out of 10 when a client (or prospective client) asks for advice on what they can do to improve the conversion rate on their website, I type their URL into my browser address bar and I see the same issue staring me in the face! 

@@ -1,7 +1,7 @@
 ---
 title: The Top 4 Wordpress Blog Alternatives 
 date: 2018-12-09 17:32:15
-tags:
+tags: [Wordpress, Alternatives, 2019]
 ---
 
 Wordpress is great, but when it comes to blogging these days there are better options in my humble opinion. 
