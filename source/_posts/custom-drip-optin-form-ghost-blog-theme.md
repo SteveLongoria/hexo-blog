@@ -68,11 +68,11 @@ Add this code to your assets/css/style.css file:
 
 <h3>Step Three</h3>
 
-Add the web form on the homepage and anywhere else you want it! For example, I put it in my index.hbs file and post.hbs. Replace the X's with whatever number your Drip form is:
+Add the web form on the homepage and anywhere else you want it! For example, I put it in my index.hbs file and post.hbs. Replace the X's with your Drip form number we snagged in Step One above:
 
 {% codeblock lang:html %}
 <div id="subscribe-cta">
-<form action="https://www.getdrip.com/forms/849303961/submissions" method="post" data-drip-embedded-form="849303961">
+<form action="https://www.getdrip.com/forms/XXXXXXXX/submissions" method="post" data-drip-embedded-form="849303961">
 <input type="email" id="drip-email" name="fields[email]" value="" placeholder="Enter your email..."/> 
 <button id="cta-btn" type="submit" data-drip-attribute="sign-up-button">SUBMIT</button>
 </form>
