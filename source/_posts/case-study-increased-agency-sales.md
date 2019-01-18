@@ -33,17 +33,12 @@ On top of all of that, I also put together a limited time Free Google Ad Managem
 We saw a 22% conversion rate on that sales page and offer.
 
 So after 9 months here are the stats of the campaign:
+-92 leads
+-5 paid clients from the campaign
+-$700 on average per month per client.
+-$4200/mo total for all 5 clients
+-1 yr average client lifespan
+-$4200 x 12mos = $50,400 total projected revenue
+-Total spent on Google Ads as of this writing is $4,708.89
 
--Spent $4,029.86 (9+ months)
-
--42,697 Ad Impressions (People who saw our brand name and domain URL)
-
--895 clicks to our website
-
--87+ leads (There's more than this in reality since July when I switched the site over to the existing site there were some chat initiation conversions that went untracked as I got things settled, probably just another 10 leads roughly.)
-
--4 new clients at a yearly value of 12,800 on average (2 more potentials that signed up for the Google Ad Free Trial and will be charged $500/mo after 14-days)
-
--217% ROI in the first year, even more if they stay on board for 2 years or upsell them on more services and this doesn't count the 2 free trial signups since we don't know if they'll stay on past the 14-days yet.
-
-__UPDATE: You can see the new numbers for this case study [here](https://stevelongoria.net/casestudy/).__
+This gives us a 970% return on ad spend. This doesn't factor in the cost of my retainer but even factoring that in we're still looking at about a 5-to-1 return on investment.
