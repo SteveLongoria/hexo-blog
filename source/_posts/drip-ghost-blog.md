@@ -4,7 +4,7 @@ date: 2018-07-28 10:46:32
 tags: [Ghost, Blog, Drip, Ecommerce, CRM]
 ---
 
-**Update: I published another blog post showing how to embed a custom Drip email optin form directly into the Ghost blog theme. [Click here](https://blog.stevelongoria.net/2019/01/17/custom-drip-optin-form-ghost-blog-theme/) to read it!
+**Update: I published another blog post showing how to embed a custom Drip email optin form directly into the Ghost blog theme. [Click here](https://blog.stevelongoria.net/2019/01/17/custom-drip-optin-form-ghost-blog-theme/) to read it!**
 
 [Ghost](https://ghost.org/) Blogs have a built in subscription feature which allows people to optin to your newsletter. Currently you can only Import CSV, Export CSV or Add Subscriber individually.
 
