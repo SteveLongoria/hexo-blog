@@ -6,7 +6,9 @@ tags: [Ghost, Blog, Theme, Email, Optin, Form, Drip, CRM]
 
 Blogging with [Ghost](https://ghost.org) is awesome and it does have built in email list building functionality so you can build an email list from your blog. The problem is that if you want those subscribers automatically sent to your favorite marketing automation software like [Drip](https://www.drip.com) or [ConvertKit](https://convertkit.com) you'll need to use [Zapier](https://zapier.com). This presents an added cost for each subscriber that opts in.
 
-This can easily be avoided by adding your own [Drip](https://www.drip.com) form directly to your Ghost theme. This requires you to edit the code a bit but don't worry, I'm going to walk you through this!
+This can easily be avoided by adding your own [Drip](https://www.drip.com) form directly to your Ghost theme. The form will look very much like the one at the bottom of this page! 
+
+Adding the form to your Ghost blog theme will require you to edit the code a bit but don't worry, I'm going to walk you through this!
 
 The theme I was using to make this edit was the [Atilla theme](https://github.com/zutrinken/attila). If you have a different theme it shouldn't be that different but if it is feel free to contact me for help. This short guide is assuming you already have the basic [Drip JavaScript Snippet](https://help.drip.com/hc/en-us/articles/115003737152-Install-Your-JavaScript-Snippet) already installed on your website.
 
