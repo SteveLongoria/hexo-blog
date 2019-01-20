@@ -10,9 +10,9 @@ tags: [Ghost, Blog, Drip, Ecommerce, CRM]
 
 <center>{% asset_img ghost-subscribe.png Ghost Subscribe Options %}</center>
 
-You still have to have a 3rd party solution for emailing out to your list, something like MailChimp. You can of course sync with a bunch of email marketing apps like Mailchimp by using their Zapier integration, unfortunately though, if you are sold on using a solution that isn't available via Zapier integration like say [Drip Ecommerce CRM](getdrip.com), you're going to have to do some Ghost Theme hacking.
+You still have to have a 3rd party software for emailing out to your list, something like [Drip](https://www.drip.com). You can of course sync with a bunch of marketing automation and email marketing software like Drip by using their Zapier integration, but that's added cost where it's just not needed.
 
-First I tried just adding the Drip Form Widget with 'Lightbox' Orientation and a time delay. This solution worked only when I was testing in my local Ghost development environment, when I uploaded the modified them to my live Ghost blog though the widget wasn't working. I'll have to contact support about this but the in the meantime, that lead me down another path.
+First I tried just adding the Drip Form Widget with 'Lightbox' Orientation and a time delay. This solution worked only when I was testing in my local Ghost development environment, when I uploaded the modified theme to my live Ghost blog though the widget wasn't working. I'll have to contact support about this but the in the meantime, that lead me down another path.
 
 I then considered just creating a [subscribe.hbs Ghost template](https://themes.ghost.org/docs/subscribe-context) file and embedding the Drip Form but that would require me to do custom style job with CSS and I admittedly do not have a ton of experience styling forms. I then just decided to hardcode links into the Ghost theme to send people to the Drip Hosted Form that you can see [here](https://www.getdrip.com/forms/849303961/submissions/new?).
 
