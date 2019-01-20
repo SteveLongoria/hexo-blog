@@ -17,4 +17,8 @@ Somebody who finds you on Google via Google Ads is further near the "action" par
 
 If you have a limited ad budget, try out Google Ads first. For bigger brands with a bigger marketing budget, it might make sense to use Facebook Ads to build up the 'awareness' part of the sales funnel, but for smaller fish who need to see a high ROI with their advertising budget, I'd say skip Facebook Ads. Oh yea, and never run a 'like' campaign unless you like flushing your money down the toilet.
 
-Some will recommend running a retargeting campaign, this way you know you're only showing ads to people who have already shown interest in your product or service. I personally don't like running these types of campaigns because I believe ad trackers give web site visitors a bad user experience and retargeting campaigns come off as being creepy and desperate. Also, many browsers are starting to block trackers by default like Safari and Brave Browser. You're mileage may vary of course!
+Some will recommend running a Facebook Retargeting Ad Campaign. While it's true these type of ads can produce a high ROI, I'm not a fan of them personally. 
+
+Why? 
+
+I believe there's plenty of profit to be made respecting my website visitor's privacy and without ad trackers clogging up the internet making websites load slower. Not only that, but [it would seem public perception of online privacy is changing](http://www.pewresearch.org/fact-tank/2018/03/27/americans-complicated-feelings-about-social-media-in-an-era-of-privacy-concerns/) and one could argue respecting your website visitor's privacy by removing any ad trackers on your site will just be seen as best practice for businesses that don't want to experience any kind of public backlash against their brand.
