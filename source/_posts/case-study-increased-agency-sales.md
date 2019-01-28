@@ -3,8 +3,7 @@ title: "Case Study: How I Created An Agency's First Successful Digital Ad Campai
 date: 2018-09-15 18:31:03
 tags: [Agency, Sales, Google, Ad, Adwords, Campaign]
 ---
-
-<center>{% asset_img amcasestudy.png Google Ad Stats %}</center>
+<center>{% youtube 'pwveNYH5u-g' %}</center>
 
 Just over a year ago I started doing work for a small Reputation Management company based in San Diego. They hired me to manage PPC ad campaigns for their clients, which were mostly property managers with some other random businesses sprinkled in like a dentist, two piano stores, a fire extinguisher/sprinkler business, etc.
 
