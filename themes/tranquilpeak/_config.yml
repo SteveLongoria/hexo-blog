@@ -59,11 +59,6 @@ sidebar:
             title: Contact
             url: https://stevelongoria.net
             icon: fa fa-envelope
-    rss:
-        rss:
-            title: global.rss
-            url: /atom.xml
-            icon: fa fa-rss
 
 
 # --------------------
