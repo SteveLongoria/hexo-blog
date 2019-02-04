@@ -34,10 +34,6 @@ sidebar:
             title: global.home
             url: /
             icon: fa fa-home
-        categories:
-            title: global.categories
-            url: /all-categories
-            icon: fa fa-bookmark
         tags:
             title: global.tags
             url: /all-tags
@@ -54,36 +50,20 @@ sidebar:
             class: open-algolia-search
         about:
             title: global.about
-            url: /#about
+            url: https://stevelongoria.net
             icon: fa fa-question
     author_links:
         github:
             title: global.github
-            url: https://github.com/
+            url: https://github.com/SteveLongoria
             icon: fab fa-github
-        stack_overflow:
-            title: global.stack_overflow
-            url: http://stackoverflow.com/users
-            icon: fab fa-stack-overflow
         twitter:
             title: global.twitter
-            url: https://twitter.com/
+            url: https://twitter.com/stevelongoria
             icon: fab fa-twitter
-        facebook:
-            title: global.facebook
-            url: https://facebook.com/
-            icon: fab fa-facebook
-        google_plus:
-            title: global.google_plus
-            url: https://plus.google.com/
-            icon: fab fa-google-plus
-        linked_in:
-            title: global.linkedin
-            url: https://www.linkedin.com/profile/
-            icon: fab fa-linkedin
         mail:
-            title: global.mail
-            url: mailto
+            title: Contact
+            url: https://stevelongoria.net
             icon: fa fa-envelope
     rss:
         rss:
@@ -106,7 +86,7 @@ sidebar:
 #     class: open-algolia-search
 header:
     right_link:
-        url: /#about
+        url: https://stevelongoria.net
         icon:
         class:
 
@@ -117,21 +97,15 @@ header:
 
 # Your biography and your job is editable in each languages files in `languages` folder
 author:
-    email:
-    location:
+    email: me@stevelongoria.net
+    location: Oregon
     # Your profile picture located in folder `source/_images/` (development)
     # or in `source/assets/images/` (production)
     # or you can use an external url
     # Overwritten by your gravatar image if `gravatar_email` is filled
-    picture:
+    picture: https://stevelongoria.net/images/steve.jpeg
     # Your Twitter username without the @. E.g : `tranquilpeak`
-    twitter:
-    # Your personal google plus profile id, not your blog or business page id.
-    # E.g : `+JohnDoe` or `123812884128439`
-    google_plus:
-    # Your businnes google plus profile id. If not provided, personal will be used instead.
-    # E.g : `+Tranquilpeak` or `123812884128439`
-    google_plus_business:
+    twitter: stevelongoria
 
 
 # -------------
@@ -207,7 +181,7 @@ gitment:
 # -------------------
 
 # Your Google analystics web property ID : UA-XXXXX-X
-google_analytics_id:
+google_analytics_id: UA-2157560-33
 # Your Baidu analystics web property ID : 9505a5af654a2478f93fd6c0ae4f687d
 baidu_analytics_id:
 # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -246,9 +220,6 @@ sharing_options:
     twitter:
         icon: "fab fa-twitter"
         url: "https://twitter.com/intent/tweet?text={{post.permalink}}"
-    google_plus:
-        icon: "fab fa-google-plus"
-        url: "https://plus.google.com/share?url={{post.permalink}}"
     # Asian social networks
 #    weibo:
 #        title: "Weibo"

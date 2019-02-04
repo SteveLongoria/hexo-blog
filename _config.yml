@@ -8,7 +8,7 @@ subtitle: Business & Marketing Tips
 description: 
 keywords:
 author: Steve Longoria
-language: English
+language: en
 timezone:
 
 # URL
@@ -73,9 +73,15 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: daily
+theme: tranquilpeak
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+  
+# RSS Feed
+feed:
+    type: atom
+    path: atom.xml
+    limit: 20
