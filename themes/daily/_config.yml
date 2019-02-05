@@ -21,7 +21,7 @@ highlight:
 nav:
   home: .
   archive: archives
-  about: https://stevelongoria.net/#about
+  about: https://stevelongoria.net/
   contact: https://stevelongoria.net
   # rss: atom.xml
 

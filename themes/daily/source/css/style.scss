@@ -88,3 +88,12 @@ button {
   	background-color: #4dc4ce
   }
 }
+
+/* Video Styles */
+.video iframe {
+	width: 100%;
+	min-height: 150px;
+	@media (min-width: 800px) {
+		min-height: 300px;
+	}
+}
