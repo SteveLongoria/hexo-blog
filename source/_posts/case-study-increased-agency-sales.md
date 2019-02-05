@@ -1,5 +1,5 @@
 ---
-title: "Case Study: How I Created An Agency's First Successful Digital Ad Campaign"
+title: That Time I Generated A 970% Return On Ad Spend Using Google Adwords
 date: 2018-09-15 18:31:03
 tags: [Agency, Sales, Google, Ad, Adwords, Campaign]
 ---
