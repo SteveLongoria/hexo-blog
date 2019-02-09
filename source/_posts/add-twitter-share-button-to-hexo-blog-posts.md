@@ -12,7 +12,7 @@ The first step is to [go here](https://publish.twitter.com/?buttonType=TweetButt
 
 <center>{% asset_img twittersharebuttoncode.png Twitter Share Button Code %}</center>
 
-Next, paste the following bit of code in the post.ejs file found in your Hexo theme layout folder.
+Next, paste the following bit of code in the post.ejs file found in your Hexo theme layout folder. You can see exactly where to add it by viewing [my git commit here](https://github.com/SteveLongoria/hexo-blog/commit/b6b826adc92938b872bffe1eb94e25c2ef5adb1e) on Github.
 
 {% codeblock themes/daily/layout/post.ejs lang:html %}
 
