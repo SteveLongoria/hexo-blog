@@ -20,9 +20,10 @@ highlight:
 # nav #
 nav:
   home: .
-  archive: archives
   about: https://stevelongoria.net/
-  contact: https://stevelongoria.net
+  ebook: https://stevelongoria.net/gadadvantage/
+  archive: archives
+  
   # rss: atom.xml
 
 # hexo-renderer-sass
@@ -39,7 +40,7 @@ social:
   github: https://github.com/SteveLongoria
   # weibo: http://weibo.com/10010800
   # mail: mailto:gallenhu@foxmail.com
-  # twitter: https://twitter.com/GallenHu
+  twitter: https://twitter.com/stevelongoria
 
 # widget
 #   title: 标题
