@@ -8,12 +8,9 @@ You want to be able to process just a simple one-time payment for your product u
 
 You tried reading their documentation but you're having trouble understanding it because let's be honest, you're NOT a web developer!
 
-I made [a blog post here](https://varpop.com/stripe-checkout-expressjs-one-time-charge/) on my other site called Varpop.com explaining my experience setting this up and what I did to overcome obstacles I encountered while setting up Stripe Payments using NodeJS.
+Unfortunately, you're probably going to have to learn a little bit about entering commands into your computer terminal and some HTML & JavaScript to implement Stripe Payments on your site.
 
-Unfortunately, you're probably going to have to learn a little bit about entering commands into your computer terminal and some HTML & JavaScript to even understand my blog post.
+I highly recommend going through [this free online web development course](https://developer.mozilla.org/en-US/docs/Learn) for beginners. Don't forget to go through the 'server-side' NodeJS lessons and tutorials as well. After you're finished with that go ahead and dive back into the [Stripe Payments Documentation](https://stripe.com/docs/quickstart). It should start making sense after that!
 
-After you follow the instructions in that post, you'll still need to deploy or upload your NodeJS app (i.e. your website that processes payments using Stripe API) to the Internet using [Heroku](https://heroku.com). I wrote a post about this [here](https://varpop.com/deploy-nodejs-express-app-heroku/).
+After you get it up and running just don't forget to switch out your Stripe Development API Keys for your Production API Keys before deploying.
 
-Don't forget to switch out your Stripe Development API Keys for your Production API Keys before deploying.
-
-If you're existing site doesn't use NodeJS for it's server-side language, you may need to setup your NodeJS/Stripe payment app on a sub-domain. Something like https://pay.yourdomain.com. Or you can use whatever server-side language your existing site uses to integrate with Stripe, like PHP, unfortunately I only specialize in Stripe/NodeJS integrations so I won't be able to help you with those.
