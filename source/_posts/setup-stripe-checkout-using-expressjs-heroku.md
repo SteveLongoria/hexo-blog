@@ -10,11 +10,11 @@ I know because I struggled trying to figure this out myself. Fortunately, you wo
 
 Here's a few things you should know before getting started:
 
-1. You'll most likely need to setup a sub-domain for your Stripe Checkout as we're going to be using ExpressJS and Heroku to create our Stripe Checkout.
+1. You'll most likely need to setup a sub-domain for your Stripe Checkout as we're going to be using [Express.js](https://expressjs.com/) (a server-side framekwork) and Heroku to create our Stripe Checkout.
 
-2. This tutorial is for MacOS and Linux users only unfortunately as I don't know how to do this using Windows at this time. We will be using the command line or [Terminal app](https://en.wikipedia.org/wiki/Terminal_(macOS)) throughout the guide.
+2. This tutorial is for MacOS and Linux users only unfortunately as I don't know how to do this using Windows at this time. We will be using the command line (or [Terminal app](https://en.wikipedia.org/wiki/Terminal_(macOS)) throughout the guide.
 
-3. This guide also assumes you already have Node/NPM installed on your computer already. You can learn how to do that here.
+3. This guide also assumes you already have Node/NPM installed on your computer already. You can learn how to do that [here](https://www.npmjs.com/get-npm).
 
 Okay, now that we have that out of the way, let's dive in!
 
