@@ -4,6 +4,8 @@ date: 2018-11-25 12:13:28
 tags: [Stripe, Payments, Checkout, Website]
 ---
 
+**Update:** I created a guide walking you step-by-step through [the process of setting up Stripe Checkout using Express.js and Heroku](https://blog.stevelongoria.net/2019/02/26/setup-stripe-checkout-using-expressjs-heroku/). Be sure to check it out!
+
 You want to be able to process just a simple one-time payment for your product using Stripe but you have no clue how to do it. 
 
 You tried reading their documentation but you're having trouble understanding it because let's be honest, you're NOT a web developer!
