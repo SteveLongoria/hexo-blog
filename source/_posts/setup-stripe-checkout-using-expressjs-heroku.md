@@ -6,7 +6,7 @@ tags: [Stripe, Checkout, Express, Heroku, Payments, Cart]
 
 You have a product you want to sell on your website using Stripe, without any 3rd parties, and so all you need to do is figure out how to set it all up from scratch. Ha! Obviously, this is not an easy undertaking, especially if you don't know anything about web development.
 
-I know because I struggled trying to figure this out myself. Fortunately, you won't have to struggle as hard as I'm going to walk you through the process step-by-step? :)
+I know because I struggled trying to figure this out myself. Fortunately, you won't have to struggle as hard as I'm going to walk you through the process step-by-step! :)
 
 Here's a few things you should know before getting started:
 
