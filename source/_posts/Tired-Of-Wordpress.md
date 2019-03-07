@@ -9,7 +9,7 @@ You're so tired of having to deal with Wordpress plugin and theme updates, plugi
 
 The fact of the matter is that in 2018 there are simpler better solutions when it comes to  blogging. In fact, you don't even need a database in order to have a blog these days. This comes with a lot of advantages, performance and security being among the top.
 
-When I decided I was going to start blogging again and created [Varpop.com](Varpop.com), a blog about coding, I knew I didn't want to use Wordpress. I'd been learning JavaScript and Node over the past year and so I knew I wanted to keep it in this realm.
+When I decided I was going to start blogging again and created a blog about coding, I knew I didn't want to use Wordpress. I'd been learning JavaScript and Node over the past year and so I knew I wanted to keep it in this realm.
 
 That's when I decided to go with [Ghost](Ghost.org). Ghost is a great, simple solution that I've been super happy with. It makes publishing super easy and quite pleasurable.
 
