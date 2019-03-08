@@ -25,7 +25,7 @@ With that said, Hexo comes with some remarkable benefits:
 
 1. There's no database so your blog is completely static. This of course means you can  easily expect page load speeds under a second. This of course is important considering most people expect your site to load under 3 seconds and page speed is a huge factor in terms of SEO.
 
-2. You can publish your Hexo blog for free using [Netlify](netlify.com), including custom domain name.
+2. You can publish your Hexo blog for free using [Netlify](https://www.netlify.com), including custom domain name.
 
 This is great especially for those who are on a budget. You don't have to upgrade your servers until your website is already generating traction.
 
