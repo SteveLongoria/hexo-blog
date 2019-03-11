@@ -4,8 +4,6 @@ date: 2018-07-28 10:46:32
 tags: [Ghost, Blog, Drip, Ecommerce, CRM]
 ---
 
-**Update: I published another blog post showing how to embed a custom Drip email optin form directly into the Ghost blog theme. [Click here](https://blog.stevelongoria.net/2019/01/17/custom-drip-optin-form-ghost-blog-theme/) to read it!**
-
 [Ghost](https://ghost.org/) Blogs have a built in subscription feature which allows people to optin to your newsletter. Currently you can only Import CSV, Export CSV or Add Subscriber individually.
 
 <center>{% asset_img ghost-subscribe.png Ghost Subscribe Options %}</center>
@@ -27,3 +25,9 @@ Here's the code I changed on the post.hbs template so the newsletter sign-up cal
 And that's it, I've got Drip 'integrated'. The theme I'm using for Varpop is [Attila theme](https://github.com/zutrinken/attila).
 
 Obviously the best long-term situation would be to just create a subscribe.hbs file and style the embedded Drip form to match your website's design. Also, it would be awesome if the Drip widget worked, I'll make an update if I learn more about that from support.
+
+## Related Posts
+
+[How To Create A Contact Form For Your Ghost Blog](https://blog.stevelongoria.net/2019/03/10/how-to-setup-a-ghost-blog-contact-form/)
+[How To Add A Custom Drip Email Optin Form To Your Ghost Blog Theme](https://blog.stevelongoria.net/2019/01/17/custom-drip-optin-form-ghost-blog-theme/)
+[How To Create A Custom Drip Optin Form Using CSS Flexbox](https://blog.stevelongoria.net/2018/11/03/custom-drip-form-css-flexbox/)

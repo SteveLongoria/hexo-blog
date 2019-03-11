@@ -35,3 +35,8 @@ Your going to want to snag your Drip Form ID number which is located in HTML cod
 Now just customize the colors and fonts to match the design of your site.
 
 That's it! Go ahead and test out your new form to make sure it's working and you're good to go!
+
+## Related Posts
+
+[How To Create A Contact Form For Your Ghost Blog](https://blog.stevelongoria.net/2019/03/10/how-to-setup-a-ghost-blog-contact-form/)
+

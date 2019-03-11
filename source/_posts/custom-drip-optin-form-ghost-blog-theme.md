@@ -82,3 +82,7 @@ Add the web form on the homepage and anywhere else you want it! For example, I p
 {% endcodeblock %}
 
 [Check out my exact changes to exact files in my Github commit here.](https://github.com/SteveLongoria/varpop/commit/fce2e8bc11c23ee55d58f9bd8702dfd6612ee633)
+
+## Related Posts
+
+[How To Create A Contact Form For Your Ghost Blog](https://blog.stevelongoria.net/2019/03/10/how-to-setup-a-ghost-blog-contact-form/)
