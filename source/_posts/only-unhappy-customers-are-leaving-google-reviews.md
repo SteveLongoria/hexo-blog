@@ -10,7 +10,7 @@ It's unfortunate but unhappy customers are just more vocal than happy customers 
 
 I know it sucks, but it's just the nature of local business in our modern digital age. It's vital that every business is more proactive in collecting reviews from happy customers.
 
-In today's post I'm going to give you a strategy that you can employ in your business today to start getting your Google star rating back up to 4 or 5 stars.
+In today's post I'm going to give you a strategy that you can employ in your business today to start getting more positive reviews from happy customers which will bring your Google star rating back up to 4 or 5 stars.
 
 First off, why is it important for your local business to have a 4-5 star Google rating? 
 
