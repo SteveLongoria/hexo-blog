@@ -16,4 +16,4 @@ Now, there are countless companies who offer reputation management services and 
 
 This is why I put together a system to help local businesses capture positive reviews from the happy customers while simultaneously directing feedback from unhappy customers to management or the owner.
 
-[Click Here](https://www.varpop.com) to learn more about the Varpop Review Portal System!
+[Click Here](https://blog.stevelongoria.net/2019/03/13/only-unhappy-customers-are-leaving-google-reviews/) to learn more about my free review portal page system.
