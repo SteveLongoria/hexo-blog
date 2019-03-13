@@ -1,7 +1,7 @@
 ---
 title: It Seems Like Only Unhappy Customers Leave You A Google Review
 date: 2019-03-13 13:50:54
-tags:
+tags: [Google-Rating, Negative-Reviews, Reputation-Management]
 ---
 
 Almost every local business experiences this, some more than others. Your business has countless happy customers but you wouldn't know it from looking at your Google star rating.
