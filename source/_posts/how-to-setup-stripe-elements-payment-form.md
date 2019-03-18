@@ -4,7 +4,7 @@ date: 2019-03-18 10:30:00
 tags: [Stripe, Elements, Payments, HandlebarsJS, ExpressJS]
 ---
 
-The easiest way to process payments with Stripe is to just use Checkout. I've already written a post on how to setup Stripe Checkout to process one-time payments and another post here on how to process automatically recurring payments.
+The easiest way to process payments with Stripe is to just use Checkout. I've already written [a post here on how to setup Stripe Checkout to process one-time payments](https://blog.stevelongoria.net/2019/02/26/setup-stripe-checkout-using-expressjs-heroku/) and another post [here](https://blog.stevelongoria.net/2019/03/12/setup-recurring-payments-subscriptions-stripe-checkout/) on how to process automatically recurring payments here.
 
 The only downside to Stripe Checkout in my opinion, is that you can't customize the look and feel of the Stripe Checkout overlay that pops up:
 
