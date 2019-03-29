@@ -6,7 +6,7 @@ tags: [google-analytics, sub-domain, root-domain]
 
 If you're like me and you have your blog on a sub-domain (i.e. blog.yourdomain.com) then you're probably wondering how you can track both your root domain (i.e. yourdomain.com) and your blog sub-domain in a single view or report inside Google Analytics.
 
-I already wrote about whether or not you should combine or keep the domains on separate Google Analytics properties here in this blog post. I had originally setup my blog and root domain as separate properties in Google Analytics which gave me inaccurate data.
+I already wrote about whether or not you should combine or keep the domains on separate Google Analytics properties [here in this blog post](https://blog.stevelongoria.net/2019/03/27/track-blog-sub-domain-separately-google-analytics/). I had originally setup my blog and root domain as separate properties in Google Analytics which gave me inaccurate data.
 
 When researching how to set-up cross-domain tracking in Google Analytics I came across Google's official documentation, which is always rather technical and not very easily understood. 
 
