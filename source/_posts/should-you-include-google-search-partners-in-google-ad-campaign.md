@@ -1,7 +1,7 @@
 ---
 title: Should you include Google Search Partners on your Google Ad Search Campaign?
 date: 2019-04-03 15:19:45
-tags: [google-ads, adwords]
+tags: [google-ads, adwords, sem]
 ---
 
 You're setting up your Google Ad Search Campaign and under the Networks > Search Networks section you are confronted with a blue check box. You need to decide if you should "Include Google search partners' network.
