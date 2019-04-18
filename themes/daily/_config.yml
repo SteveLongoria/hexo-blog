@@ -19,8 +19,8 @@ highlight:
 
 # nav #
 nav:
-  home: .
-  about: https://www.stevelongoria.net/
+  home: https://www.stevelongoria.net/
+  blog: .
   ebook: https://www.stevelongoria.net/gadadvantage/
   archive: archives
   
