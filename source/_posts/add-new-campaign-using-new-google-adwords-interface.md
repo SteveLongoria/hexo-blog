@@ -6,7 +6,7 @@ tags: [Google-Adwords, Google-Ads, Ad-Campaign]
 
 Google Adwords, or [Google Ads as they want to be called now](https://support.google.com/google-ads/answer/9028765?hl=en), has recently [made some big changes to their user interface over the past year](https://support.google.com/google-ads/answer/6383306?hl=en). 
 
-<center>{% asset_img googleadexperience.png New Google Ad Experience %}</center>
+<center><img src="/2019/05/19/google-ad-campaign-bidding-strategy/biddingstrategy.png"/></center>
 
 Some people love it and some hate it. I personally prefer the older interface but I understand that with technology you must be willing and able to adapt to change, because it's happening all the time!
 
