@@ -12,8 +12,14 @@ For example, for a business selling golf clubs they might want to try this modif
 
 +golf +clubs
 
-With this 'modified broad match' keyword you’re effectively telling Google you want your ad to show up in search results for search phrases that contain both “golf” and “clubs” in any order. 
+or
 
-This will help you find search phrases and keywords that you never would’ve thought of. Just be sure to check the Google Ad search terms report to see what search phrases you’re getting clicks from so you can add them as positive (or negative) keywords to the campaign for better targeting.
++golf clubs
+
+With this '[modified broad match](https://support.google.com/google-ads/answer/2497702?hl=en&ref_topic=3122868)' keyword you’re effectively telling Google you want your ad to show up in search results for search phrases that contain both “golf” and “clubs” (or close variants) in any order. 
+
+This will help you find search phrases and keywords that you never would’ve thought. 
+
+Using [broad match keyword phrases](https://support.google.com/google-ads/answer/2497828?hl=en) can be great for this purpose as well but using the plus sign (i.e. the modifier) in front of one or more of the keywords can provide more targeted results. Just be sure to check the Google Ad search terms report to see what search phrases you’re getting clicks from so you can add them as positive (or negative) keywords to the campaign for better targeting.
 
 Give this a shot in your Google Search Ad campaign and let me know how you fare! :)
