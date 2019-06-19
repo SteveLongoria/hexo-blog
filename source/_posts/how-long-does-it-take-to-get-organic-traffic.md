@@ -1,5 +1,5 @@
 ---
-title: How Long Does It Take To Start Getting Organic Google Traffic?
+title: How Long Does It Take To Get Organic Google Traffic?
 date: 2019-02-15 20:31:57
 tags: [Organic, Google, Traffic, Indexed, SERPS]
 ---
