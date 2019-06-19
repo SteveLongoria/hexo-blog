@@ -20,4 +20,4 @@ Watch this video below to see how my review portal page works:
 {% youtube '_9n5TTN9CeA' %}
 </div>
 
-Look cool? [Download the review portal page and installation guide here!](https://www.stevelongoria.net/reviewsystem.zip)
+Look cool? [Download the review portal page and installation guide here!](https://www.getdrip.com/forms/198503846/submissions/new)

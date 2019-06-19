@@ -32,7 +32,7 @@ Check out this video to see it in action!
 
 You'd customize this page and add it to your website. I include an installation guide when you [download the page showing you exactly how to customize and get it working on your site.
 
-[Download the review portal page and installation guide here](https://www.stevelongoria.net/reviewsystem.zip)
+[Download the review portal page and installation guide here](https://www.getdrip.com/forms/198503846/submissions/new)
 
 ## Step 2: Promote your new review portal page!
 
