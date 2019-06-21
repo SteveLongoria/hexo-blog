@@ -1,5 +1,5 @@
 ---
-title: How to add a new campaign using Google Ads new interface
+title: How should you setup and structure your Google Ad Campaign's Ad Groups? Example provided.
 date: 2019-03-22 13:23:03
 tags: [Google-Adwords, Google-Ads, Ad-Campaign]
 ---
