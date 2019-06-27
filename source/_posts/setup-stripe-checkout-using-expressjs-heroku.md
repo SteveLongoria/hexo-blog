@@ -288,3 +288,5 @@ Reset your Stripe API Heroku Environment Variables with your [production keys in
 If you'd like a custom domain for your Heroku App read [this guide](https://devcenter.heroku.com/articles/custom-domains).
 
 Now simply style and format your new Stripe Checkout page, fill it with your sales copy and you've got a completely functioning sales page with payments.
+
+Like this info? [Download this blog post as a PDF for your digital library](https://www.getdrip.com/forms/295579539/submissions/new)!
