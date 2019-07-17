@@ -8,7 +8,7 @@ When setting up your Google Search Ad campaign you have to decide how to rotate 
 
 It looks like this in the new Google Ad interface:
 
-![Bidding](/content/adrotation.jpg)
+![Bidding](/content/adsrotation.jpeg)
 
 I always recommend selecting the “Do not optimize: Rotate ads indefinitely” option. Why? I don't like leaving any of the decision making to Google's automated algorithms. I simply want Google to rotate through all of my ad variations equally and then, I'll manually pause ads based on performance myself. 
 
