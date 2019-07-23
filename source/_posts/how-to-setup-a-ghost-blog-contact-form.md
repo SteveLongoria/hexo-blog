@@ -33,3 +33,8 @@ You can select the custom template using the dropdown menu found inside the post
 Now all you have to do is follow the steps at [Formspree.io](https://formspree.io) to 'wire up' your form to send to your email inbox. It's really simple, you basically just edit the form 'action' attribute with their URL followed by your email address you want the contact form messages sent to.
 
 That's it! You're all done. You now have a nifty, mobile responsive contact form for your Ghost Blog or anything really! :)
+
+**Related Blog Posts**
+[Should You Submit Each New Blog Post To Google For Indexing?](https://blog.stevelongoria.net/2019/02/16/should-you-submit-each-new-blog-post-to-google-for-indexing/)
+[How To Add A Custom Drip Email Optin Form To Your Ghost Blog Theme](https://blog.stevelongoria.net/2019/01/17/custom-drip-optin-form-ghost-blog-theme/)
+[The Easiest Way To Integrate Drip Into Your Ghost Blog](https://blog.stevelongoria.net/2018/07/28/drip-ghost-blog/)
