@@ -12,7 +12,7 @@ What if you could have a similar portal page that functions the same way only yo
 
 That would be nice right?
 
-Fortunately, this type of portal page isn't too difficult to whip up if you know a little javascript. I've gone ahead and done just that! I put it together for my readers here to download for free and use in their business right away, anyway they see fit!
+Fortunately, this type of portal page isn't too difficult to whip up if you know a little javascript. I've gone ahead and done just that! I put it together for my readers [here to download for free](https://www.getdrip.com/forms/198503846/submissions/new) and use in their business right away, anyway they see fit!
 
 Watch this video below to see how my review portal page works:
 
