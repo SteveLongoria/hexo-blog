@@ -14,9 +14,11 @@ I have two options for you, a simpler option and a more complicated one dependin
 
 ## Simpler Option
 
-I've recently been a big fan of using TypeForm for my contact form. It's free if you're just wanting a simple contact form and has such a nice user experience. Creating a contact form is simple with TypeForm, it's basically like creating a Google Form which is really easy. 
+I've recently been a big fan of using [TypeForm](https://typeform.com) for my contact form. It's free if you're just wanting a simple contact form and has such a nice user experience. Creating a contact form is simple with TypeForm, it's basically like creating a Google Form which is really easy. 
 
 Once you create the form, it'll exist at a URL like 'yourbusinessname.typeform.com'. To integrate into your Ghost Blog, all you have to do is make a small edit to the theme. Simply add a html for the 'Contact' navigation link to the theme and point it to your TypeForm URL. Easy Peezy!
+
+If you don't want to edit the theme, you can use [Ghost URL Redirects](https://ghost.org/tutorials/implementing-redirects/) here to redirect a page at your new TypeForm contact form.
 
 ## More Complicated Option
 
