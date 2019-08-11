@@ -6,7 +6,7 @@ tags: [medium, blogging, content-marketing]
 
 I used to advocate for just using [Medium](https://medium.com) for your business blog so you have less stuff to maintain and so you can just focus on your product and sales. I was convinced partly by [Jason Fried's article here](https://m.signalvnoise.com/signal-v--noise-moves-to-medium/) on why he switched Basecamp's blogging over to Medium.
 
-I've completely changed my mind over the past 2 years, however. I now regret not starting with my own blog from day one and here's why:
+I've completely changed my mind over the past 2 years, however. I now regret not starting with my own business blog from day one and here's why:
 
 ## Reason #1
 
