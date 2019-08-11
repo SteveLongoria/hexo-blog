@@ -1,5 +1,5 @@
 ---
-title: Should you use Medium for your main business blog?
+title: Should you use Medium as your main blog platform?
 date: 2019-08-10 16:22:54
 tags: [medium, blogging, content-marketing]
 ---
