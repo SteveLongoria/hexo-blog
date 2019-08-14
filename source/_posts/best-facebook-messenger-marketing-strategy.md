@@ -4,7 +4,7 @@ date: 2019-08-05 05:12:10
 tags: [facebook-marketing, facebook-messenger, messenger-marketing]
 ---
 
-[Open rates are so high with Facebook Messenger](https://medium.com/olyo/messenger-chatbots-can-lead-your-campaigns-to-a-98-open-rate-7292db19158f) that it'd be silly not to at least experiment with this marketing channel. It's true, I've seen it myself with past clients I've helped with Facebook Messenger Marketing. It was mostly a lead generation campaign I was involved with so I'm not sure how the leads converted but they were more than happy with the results considering they were seeing $5 leads in the property management niche.
+[Open rates are so high with Facebook Messenger](https://medium.com/olyo/messenger-chatbots-can-lead-your-campaigns-to-a-98-open-rate-7292db19158f) that it'd be silly not to at least experiment with this marketing channel. I personally have ran Facebook Messenger Ad campaigns for clients and have generated leads as low as $5, which was really good for the industry they were in. I'd say that's good for almost any industry. :)
 
 Okay, so you're already convinced this is a channel you shouldn't ignore, but what's the best Messenger Marketing Strategy? 
 
