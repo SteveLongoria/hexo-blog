@@ -1,4 +1,19 @@
 <!-- scripts -->
+<!-- Drip -->
+<script type="text/javascript">
+  var _dcq = _dcq || [];
+  var _dcs = _dcs || {};
+  _dcs.account = '3578292';
+
+  (function() {
+    var dc = document.createElement('script');
+    dc.type = 'text/javascript'; dc.async = true;
+    dc.src = '//tag.getdrip.com/3578292.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(dc, s);
+  })();
+</script>
+<!-- end Drip -->
 
 <%- js('js/app.js') %>
 <%if (config.disqus_shortname){ %>
@@ -58,4 +73,5 @@ var _hmt = _hmt || [];
 
 </script>
 <!-- google_analytics end -->
+
 <% } %>
