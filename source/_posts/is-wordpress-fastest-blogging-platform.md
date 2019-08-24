@@ -26,6 +26,7 @@ The answer to this gets a little technical but I'll try and provide the simplest
 Wordpress is a dynamic site with a database. When you load a Wordpress page, it has to fetch the content from the database and fill in the template with the content. With a static site generator when you load a page, the content is already there and it loads up right away without having to fetch it from a database. This is referred to as being a 'static site'.
 
 ![Bidding](/content/static-vs-dynamic-website.jpg)
+*[Source](https://www.stevespence.net/courses/writing-for-digital-media/images/static-vs-dynamic-website.jpg)**
 
 This means that if all things are equal, there's no way a Wordpress site could load faster than a static site. Not if they both were optimized to the max. I don't see it happening.
 
