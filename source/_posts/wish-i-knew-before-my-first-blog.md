@@ -4,9 +4,9 @@ date: 2019-08-29 09:42:41
 tags: [blogging, monetize, marketing]
 ---
 
-I was recently asked by a person new to blogging, "What is the one thing you wish you knew before your first blog?".
+I was recently asked by a person new to blogging, 'What is the one thing you wish you knew before your first blog?'.
 
-My answer was simple, "Target a professional audience if you’re looking to make money with blogging".
+My answer was simple, 'Target a professional audience if you’re looking to make money with blogging'.
 
 What do I mean by this? I mean you should target a business type/vertical/industry or individuals who think like a business (i.e. self-publishing author).
 
