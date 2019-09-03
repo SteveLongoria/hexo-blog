@@ -290,3 +290,9 @@ If you'd like a custom domain for your Heroku App read [this guide](https://devc
 Now simply style and format your new Stripe Checkout page, fill it with your sales copy and you've got a completely functioning sales page with payments.
 
 Like this info? [Download the PDF version for your digital library](https://www.getdrip.com/forms/295579539/submissions/new)!
+
+## Related Posts
+
+[How To Setup Recurring Payments With Stripe Checkout](https://blog.stevelongoria.net/2019/03/12/setup-recurring-payments-subscriptions-stripe-checkout/)
+[How To Setup Stripe Elements Payment Form](https://blog.stevelongoria.net/2019/03/18/how-to-setup-stripe-elements-payment-form/)
+[What is an Online Sales Funnel?](https://blog.stevelongoria.net/2019/05/08/what-is-an-online-sales-funnel/)
