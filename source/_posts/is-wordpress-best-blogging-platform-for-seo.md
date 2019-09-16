@@ -8,7 +8,7 @@ Organic Google traffic is one of the best sources of traffic for any blog. Which
 
 Wordpress is the most popular blogging platform out there by far. In fact, as of this writing roughly 34% of all websites are run by Wordpress. Is it the best for getting that sweet organic Google traffic though? Is it the best if you're concerned about your SEO?
 
-I argue no. I already wrote about how [Wordpress is not the fastest blogging platform](https://blog.stevelongoria.net/2019/08/24/is-wordpress-fastest-blogging-platform/). Well, it just so happens that page speed is now a huge ranking factor to rank high up in the Google SERPs. Granted, it's not the only ranking factor but I believe it to be one of the bigger ones. 
+I argue no. I already wrote about how [Wordpress is not the fastest blogging platform](https://blog.stevelongoria.net/2019/08/24/is-wordpress-fastest-blogging-platform/). Well, it just so happens that page speed is now a huge ranking factor to rank high up in the Google [SERPs](https://en.wikipedia.org/wiki/Search_engine_results_page). Granted, it's not the only ranking factor but I believe it to be one of the bigger ones. 
 
 Google cares a lot about the user experience and it only makes sense that they'd want the fastest loading sites (that also offer the best content) to rank in the top of the SERPs.
 
