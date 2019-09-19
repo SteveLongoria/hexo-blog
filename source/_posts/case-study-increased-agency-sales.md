@@ -44,5 +44,3 @@ So after 9 months here are the stats of the campaign:
 -Total spent on Google Ads as of this writing is $4,708.89
 
 This gives us a 970% return on ad spend. This doesn't factor in the cost of my retainer but even factoring that in we're still looking at about a 5-to-1 return on investment.
-
-For even more details on my Google Ad strategy I used to generate these results, [checkout my free 5-day ecourse entitled "How To Get More Customers Online Using Google Ads"](https://stevelongoria.net/)!
