@@ -30,3 +30,9 @@ With that said, Hexo comes with some remarkable benefits:
 This is great especially for those who are on a budget. You don't have to upgrade your servers until your website is already generating traction.
 
 To get started ASAP with Hexo and Netlify, follow this [free guide here](https://www.netlify.com/blog/2015/10/26/a-step-by-step-guide-hexo-on-netlify/) and also checkout [this free video tutorial series](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOMJR6D25ishrSedvsguVSm).
+
+## Related Posts
+
+[Top 3 reasons you should use a static site generator for blogging](https://blog.stevelongoria.net/2019/09/24/top-3-reasons-static-site-generator-for-blogging/)
+[Is Wordpress the best blogging platform for SEO?](https://blog.stevelongoria.net/2019/09/11/is-wordpress-best-blogging-platform-for-seo/)
+[Is Wordpress the fastest blogging platform?](https://blog.stevelongoria.net/2019/08/24/is-wordpress-fastest-blogging-platform/)
