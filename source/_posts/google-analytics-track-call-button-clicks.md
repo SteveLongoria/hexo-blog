@@ -1,5 +1,5 @@
 ---
-title: How to track call button clicks on your website as Goals in Google Analytics
+title: How to track call button clicks as Goals in Google Analytics
 date: 2019-10-07 15:59:08
 tags: [google-analytics, analytics, conversion-tracking]
 ---
