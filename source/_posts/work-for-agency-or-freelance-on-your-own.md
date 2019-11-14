@@ -1,5 +1,5 @@
 ---
-title: Should you work for an agency or freelance on your own
+title: Should you work for an agency or freelance on your own?
 date: 2019-11-14 14:08:37
 tags: [agency, freelancer, freelance,]
 ---
