@@ -6,7 +6,7 @@ tags: [rightmessage, review, opt-in, email, lead-generation]
 
 I've been experimenting with the [RightMessage](https://rightmessage.com) Opt-in tool as of late. It syncs with your email service provider (ESP) and helps to segment your visitors and display more relevant offers based on who your visitors is and what they need.
 
-I've been using it for some client projects and so I decided to give the free trial a shot for my website. They have to different tools that work together. For $29/mo you get their CTA widget which can be a toaster pop-up, fixed top banner, embeds, etc. For an additional $100/mo you can get access to their website personalization tool which lets you personalize any website content you have on your site based on who the visitor is and what their needs are.
+I've been using it for some client projects and so I decided to give the free trial a shot for my website. They have to different tools that work together. For $29/mo you get their CTA widget which can be a toaster pop-up, fixed top banner, embeds, etc. For an additional $100/mo you can get access to their website personalization tool which lets you dynamically personalize any website content you have on your site based on who the visitor is and what their needs are.
 
 I simply started with the free trial of their $29/mo tool as I'm not ready for a $100+ monthly investment. I set up a couple audience segmentation questions, 'what type of business do you have?' and 'what do you currently need help with?', and slapped the 'toaster' widget on my site.
 
