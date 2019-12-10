@@ -6,9 +6,7 @@ tags: [facebook, ads, smm]
 
 Have you been struggling with Facebook Ads during Q4 of 2019? A lot of Facebook Advertisers are finding it difficult to get good results right now. Obviously, there are 1000s of variables at play when it comes to running a profitable ad campaign. With that said, there are certain times of the year where it's more competitive, and this can definitely drive up your ad cost.
 
-*Q4 every year is one of those times!*
-
-This is due to, you guessed it, the holiday season and there being an influx of advertisers trying to get their share of that sweet 'holiday pie'.
+Q4 every year is one of these times! This is due to the holiday season and there being an influx of advertisers trying to get their share of that sweet ‘holiday pie’.
 
 To make matters even worse this year, we have an election coming up so we ALSO have a lot of political ads driving up the cost of Facebook Ads for every other advertiser as well.
 
