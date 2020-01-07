@@ -10,7 +10,7 @@ I've tried a lot of 'page builders' in the past and was usually unimpressed. The
 
 Webflow, on the other hand, was 2nd nature right from the start. Not only is it easy to create whatever design you want to achieve, but the end result also loads fast! 
 
-I really like their [template marketplace](https://webflow.com/templates) and [showcase](https://webflow.com/discover/popular#recent) where you can find free and paid templates that you can easily 'clone' to use in your project. The designs I see being created with Webflow are some of the best designs I've seen.
+I really like their [template marketplace](https://webflow.com/templates) and [showcase](https://webflow.com/discover/popular#recent) where you can find free and paid templates that you can easily 'clone' to use in your project. The designs I see being created with Webflow are some of the best designs around.
 
 ![Bidding](/content/webflowshowcase.jpg)
 
