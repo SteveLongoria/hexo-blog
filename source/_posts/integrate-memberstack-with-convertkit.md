@@ -4,7 +4,7 @@ date: 2020-02-08 19:41:01
 tags: [membership-sites, memberstack, convertkit, marketing-automation]
 ---
 
-So you just set up a sweet new membership site using [Memberstack](https://memberstack.io). Now you want to start setting up marketing automation sequences inside [Convertkit](https://converkit.com). To do this you need to automatically sync new member data to your Convertkit account. 
+So you just set up a sweet new membership site using [Memberstack](https://memberstack.io) ([aff link](https://memberstack.io/?via=steve)). Now you want to start setting up marketing automation sequences inside [Convertkit](https://converkit.com). To do this you need to automatically sync new member data to your Convertkit account. 
 
 If you only have one membership level, this is easy peezy. Just use the  [Memberstack Zapier integration](https://help.memberstack.io/post/zapier). If, on the other hand, you have multiple membership levels, like say Basic, Premium and Gold. 
 
