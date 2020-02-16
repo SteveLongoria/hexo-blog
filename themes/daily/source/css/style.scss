@@ -12,7 +12,9 @@
 @font-face {
     font-family: 'kollektifregular';
     src: url('kollektif-webfont.woff2') format('woff2'),
-         url('kollektif-webfont.woff') format('woff');
+         url('kollektif-webfont.woff') format('woff'),
+         url('Kollektif-Bold.ttf') format ('ttf'),
+         url('Kollektif-Italic.ttf') format ('ttf');
     font-weight: normal;
     font-style: normal;
 
