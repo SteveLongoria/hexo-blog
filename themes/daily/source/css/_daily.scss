@@ -63,7 +63,7 @@ tt,
 ul,
 var {
   border: 0;
-  font-family: inherit;
+  font-family: 'kollektifregular', sans-serif;
   font-size: 100%;
   font-style: inherit;
   font-weight: inherit;
@@ -80,7 +80,7 @@ input,
 select,
 textarea {
   color: $color-text;
-  font-family: 'Open sans',sans-serif;
+  font-family: 'kollektifregular', sans-serif;
   font-size: 100%;
   line-height: 1.5;
 }
@@ -115,7 +115,7 @@ address {
 }
 pre {
   background: #eee;
-  font-family: "Courier 10 Pitch", Courier, monospace;
+  font-family: 'kollektifregular', sans-serif;
   font-size: 15px;
   font-size: 1.5rem;
   line-height: 1.6;
@@ -128,7 +128,7 @@ code,
 kbd,
 tt,
 var {
-  font: 15px Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+  font: 15px 'kollektifregular', sans-serif;
 }
 abbr,
 acronym {
@@ -210,7 +210,7 @@ th {
   font-weight: bold;
 }
 h1, h2, h3, h4 {
-  font-family: -apple-system, BlinkMacSystemFont,"Helvetica Neue","PingFang-SC-Regular","STHeiti", "Helvetica","Arial","Verdana","sans-serif","Microsoft YaHei"; }
+  font-family: 'kollektifregular', sans-serif; }
 h1 {
   font-size: 1.250em; }
 
@@ -319,7 +319,7 @@ Content
   }
 }
 .entry-title {
-  font-family: -apple-system, BlinkMacSystemFont,"Helvetica Neue","PingFang-SC-Regular","STHeiti", "Helvetica","Arial","Verdana","sans-serif","Microsoft YaHei";
+  font-family: 'kollektifregular', sans-serif;
   letter-spacing: 0.2em;
   color: #000;
   text-align: center;
