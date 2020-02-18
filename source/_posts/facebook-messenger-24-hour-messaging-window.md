@@ -16,6 +16,6 @@ Ultimately this gives you more control in your business and what business owner 
 
 If you want to leverage live chat in your business, I recommend using [Drift][2] or [Tawk][3] on your website as it's a great way to engage with website visitors that have questions and build your email list.
 
-[1]: https://developers.facebook.com/blog/post/2016/08/15/updated-messenger-platform-policies/
+[1]: https://manychat.com/blog/facebook-messenger-policy-2020/
 [2]: https://drift.com/
 [3]: https://www.tawk.to/
