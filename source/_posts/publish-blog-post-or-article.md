@@ -16,4 +16,4 @@ An article is typically going to be longer and a lot more in-depth on a given to
 
 So which should you publish? It just depends on your goals and the content you happen to be writing. I like the idea of publishing 'guides' instead of 'articles', but it's essentially the same idea; longer and more in-depth content on a given topic.
 
-Whatever you decide to call it, after you're finished publishing a new article or guide, announce it on your blog and link to it! When properly done, all of your content will have a synergistic effect.
+Whatever you decide to call it, after you're finished publishing a new article or guide, announce it on your blog and link to it! When properly done, all of your content will have a synergistic effect on each other.
