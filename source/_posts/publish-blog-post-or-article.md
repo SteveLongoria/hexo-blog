@@ -4,7 +4,7 @@ date: 2020-03-07 14:49:19
 tags: [Blogging, SEO, Online-Publishing ]
 ---
 
-After your content has been typed out in written form, there's sometimes a lot of confusion over what to call it and where to publish it online. Should you publish as a blog post on your blog or as an 'article' on your website?
+After typing out some content in written form, there's sometimes a lot of confusion over what to call it and where to publish it online. Should you publish as a blog post on your blog or as an 'article' on your website?
 
 _Well, what's the difference?_
 
