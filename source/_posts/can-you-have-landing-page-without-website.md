@@ -1,7 +1,7 @@
 ---
 title: Can You Have A Landing Page Without A Website?
 date: 2019-03-06 08:57:18
-tags: [Landing-Page, Website, Homepage]
+tags: [landing-page, website, homepage]
 ---
 
 A lot of entrepreneurs and business owners who are new to the web ask this question a lot. They read a lot about creating 'landing pages' for their business and yet also how they need a website for their business. What's the difference and can you have a landing page without a "website"?

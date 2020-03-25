@@ -1,7 +1,7 @@
 ---
 title: "'How do I know which negative keywords to add in my Google Ads Search Campaign?'"
 date: 2018-08-04 14:44:37
-tags: [Negative, Keywords, Google, Search, Ads, PPC, SEM]
+tags: [negative, keywords, google, search, ads, ppc, sem]
 ---
 
 <a href="https://imgflip.com/i/2faqf5"><img src="https://i.imgflip.com/2faqf5.jpg" title="This search term... should it be a negative keyword?"/></a>

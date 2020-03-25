@@ -1,7 +1,7 @@
 ---
 title: How I Made $754.75 From Just One Blog Post
 date: 2018-09-01 14:47:56
-tags: [Blogging, Money, Online]
+tags: [blogging, money, online]
 ---
 
 <center>{% asset_img steemitearnings.jpg Ghost Subscribe Options %}</center>

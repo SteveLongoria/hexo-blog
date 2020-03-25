@@ -1,7 +1,7 @@
 ---
 title: Should you design a 'proposal website' before approaching a potential client?
 date: 2020-01-14 17:34:30
-tags: [Freelance, Proposals, Clients]
+tags: [freelance, proposals, clients]
 ---
 
 I recently had a freelancer ask me if it would be a good idea to design a website for a specific business before he approached them. Just a random business essentially that he thinks could use a new website design. 

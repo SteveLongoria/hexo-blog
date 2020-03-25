@@ -1,7 +1,7 @@
 ---
 title: Which Online Business Platform Should You Use? Builderall, Kartra or ClickFunnels?
 date: 2019-03-07 09:18:38
-tags: [Online-Business-Platform, Page-Builder, Builderall, Kartra, Clickfunnels]
+tags: [online-business-platform, page-builder, builderall, kartra, clickfunnels]
 ---
 
 So you want to start building your online business but you need to figure out the technology you're going to use to make it happen first. There are so many online business building platforms out there to choose from; Clickfunnels, Builderall, Karta, Kajabi, the list goes on and on!

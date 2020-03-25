@@ -1,7 +1,7 @@
 ---
 title: What to do if your local business has poor Google rankings
 date: 2019-03-21 12:13:29
-tags: [local-business, Google, Ranking, SERP, local-SEO]
+tags: [local-business, google, ranking, serp, local-seo]
 ---
 
 I recently had a family member reach out and ask how they can improve their Google SEO for a local pain treatment center. Getting traffic and patients from Google can be difficult to say the least, it becomes even more confusing when you realize the approach you take as a small, local business is going to be different than a business that is targeting the whole country (or world).

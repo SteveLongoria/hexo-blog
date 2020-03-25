@@ -1,7 +1,7 @@
 ---
 title: How To Accept One-Time Payments Using Stripe On Your Website
 date: 2018-11-25 12:13:28
-tags: [Stripe, Payments, Checkout, Website]
+tags: [stripe, payments, checkout, website]
 ---
 
 **Update:** I created a guide walking you step-by-step through [the process of setting up Stripe Checkout using Express.js and Heroku](https://blog.stevelongoria.net/2019/02/26/setup-stripe-checkout-using-expressjs-heroku/). Be sure to check it out!

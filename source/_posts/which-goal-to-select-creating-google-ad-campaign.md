@@ -1,7 +1,7 @@
 ---
 title: Which goal should you select when creating a Google Ad campaign?
 date: 2019-03-23 16:59:16
-tags: [Google-Ads, Goal, Ads, Adwords, Campaign]
+tags: [google-ads, goal, ads, adwords, campaign]
 ---
 
 When you're creating a Google Ad campaign, you're asked to select a goal for your campaign. 

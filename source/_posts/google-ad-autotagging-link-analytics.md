@@ -1,7 +1,7 @@
 ---
 title: Should You Enable Google Ads Auto-Tagging And Sync Analytics With Google Ads? 
 date: 2018-10-22 18:07:25
-tags: [Google, Ads, Analytics, Autotagging]
+tags: [google, ads, analytics, autotagging]
 ---
 
 Google Ads and Google Analytics can be pretty confusing, to say the least. It doesn't help that Google's documentation is fairly technical and doesn't do a good job of giving you the '[ELI5](https://www.urbandictionary.com/define.php?term=ELI5)' or '[TL;DR](https://www.urbandictionary.com/define.php?term=tl%3Bdr)' versions.

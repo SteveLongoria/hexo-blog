@@ -1,7 +1,7 @@
 ---
 title: Should You Use Coingate Payment Button To Accept Bitcoin For Your Product?
 date: 2019-03-08 12:49:29
-tags: [Coingate, Bitcoin, Payments, Checkout, Merchant]
+tags: [coingate, bitcoin, payments, checkout, merchant]
 ---
 
 So you want to accept Bitcoin on your website for your product or service and you're thinking about using [Coingate](https://coingate.com/) but you're not sure if it's the right choice!

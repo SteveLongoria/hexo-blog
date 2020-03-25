@@ -1,7 +1,7 @@
 ---
 title: Should You Setup A Regular Expression Google Analytics Destination Goal?
 date: 2018-10-29 22:12:24
-tags: [Google, Analytics, Regular, Expression, Destination, Goal]
+tags: [google, analytics, regular, expression, destination, goal]
 ---
 
 When setting up lead magnet "thank you" pages and Google Analytic goals, most will start by setting up a separate goal for each different offer and lead magnet they have. 

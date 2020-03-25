@@ -1,7 +1,7 @@
 ---
 title: How To Add A Custom Drip Email Optin Form To Your Ghost Blog Theme
 date: 2019-01-17 20:13:45
-tags: [Ghost, Blog, Theme, Email, Optin, Form, Drip, CRM]
+tags: [ghost, blog, theme, email, optin, form, drip, crm]
 ---
 
 Blogging with [Ghost](https://ghost.org) is awesome and it does have built in email list building functionality so you can build an email list from your blog. The problem is that if you want those subscribers automatically sent to your favorite marketing automation software like [Drip](https://www.drip.com) or [ConvertKit](https://convertkit.com) you'll need to use [Zapier](https://zapier.com). This presents an added cost for each subscriber that opts in.

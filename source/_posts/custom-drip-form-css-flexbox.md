@@ -1,7 +1,7 @@
 ---
 title: How To Create A Custom Drip Optin Form Using CSS Flexbox
 date: 2018-11-03 14:37:31
-tags: [CSS, Flexbox, Drip, Marketing, Automation, Custom, Form]
+tags: [css, flexbox, drip, marketing, automation, custom, form]
 ---
 
 I switched over to [Drip](https://getdrip.com) from [MailChimp](https://mailchimp.com) this past year for my email marketing/marketing automation solution and so far I'm really loving it! 

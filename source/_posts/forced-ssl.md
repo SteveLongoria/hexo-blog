@@ -1,7 +1,7 @@
 ---
 title: "'I enabled SSL but when I type in my URL it still shows only HTTP'"
 date: 2018-07-30 21:48:14
-tags: [Forced, SSL, HTTP, HTTPS]
+tags: [forced, ssl, http, https]
 ---
 
 I had a client recently tell me that they bought an SSL certificate and that their site was now secure.

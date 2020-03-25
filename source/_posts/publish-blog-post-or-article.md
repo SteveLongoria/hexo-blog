@@ -1,7 +1,7 @@
 ---
 title: Should you publish blog posts or articles?
 date: 2020-03-07 14:49:19
-tags: [Blogging, SEO, Online-Publishing ]
+tags: [blogging, seo, online-publishing ]
 ---
 
 After typing out some content in written form, there's sometimes a lot of confusion over what to call it and where to publish it online. Should you publish as a blog post on your blog or as an 'article' on your website?

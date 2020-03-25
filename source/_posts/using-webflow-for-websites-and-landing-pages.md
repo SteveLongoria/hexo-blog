@@ -1,7 +1,7 @@
 ---
 title: Should you use Webflow to create your websites and landing pages?
 date: 2020-01-06 19:38:25
-tags: [Webflow, Web-Design, Web-Development, Landing-Pages]
+tags: [webflow, web-design, web-development, landing-pages]
 ---
 
 There is no shortage of website builders and landing page builders to choose from these days. Traditionally I've chosen to create my websites using HTML, CSS and JavaScript as it gives me the most control, but recently I've been experimenting with [Webflow](https://webflow.com) [[affiliate link]](https://webflow.com/?rfsn=3560533.e45900).

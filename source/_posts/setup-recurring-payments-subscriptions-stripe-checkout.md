@@ -1,7 +1,7 @@
 ---
 title: How To Setup Recurring Payments With Stripe Checkout
 date: 2019-03-12 09:05:59
-tags: [Stripe, Checkout, Recurring-Payments, Subscriptions]
+tags: [stripe, checkout, recurring-payments, subscriptions]
 ---
 
 Just a couple weeks ago I wrote a step-by-step guide showing you [how to setup Stripe Checkout using Express.js and Heroku](https://blog.stevelongoria.net/2019/02/26/setup-stripe-checkout-using-expressjs-heroku/). This guide only showed you how to setup one-time payments, but what if you want to setup recurring payments so you can sell subscriptions?

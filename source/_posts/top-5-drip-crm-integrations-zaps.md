@@ -1,7 +1,7 @@
 ---
 title: Top 5 Drip CRM Integrations & Zaps
 date: 2018-11-11 11:54:17
-tags: [Drip, CRM, Integrations, Zaps]
+tags: [drip, crm, integrations, zaps]
 ---
 
 <center>{% asset_img drip.png Drip CRM %}</center>

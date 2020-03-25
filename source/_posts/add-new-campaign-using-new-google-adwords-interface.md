@@ -1,7 +1,7 @@
 ---
 title: How should you setup and structure your Google Ad Campaign's Ad Groups? Example provided.
 date: 2019-03-22 13:23:03
-tags: [Google-Adwords, Google-Ads, Ad-Campaign]
+tags: [google-adwords, google-ads, ad-campaign]
 ---
 
 Google Adwords, or [Google Ads as they want to be called now](https://support.google.com/google-ads/answer/9028765?hl=en), has recently [made some big changes to their user interface over the past year](https://support.google.com/google-ads/answer/6383306?hl=en). 

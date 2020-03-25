@@ -1,7 +1,7 @@
 ---
 title: The Easiest Way To Integrate Drip Into Your Ghost Blog
 date: 2018-07-28 10:46:32
-tags: [Ghost, Blog, Drip, Ecommerce, CRM]
+tags: [ghost, blog, drip, ecommerce, crm]
 ---
 
 **Note: If you're looking to put a contact form on your Ghost blog, you actually want to [read this blog post](https://blog.stevelongoria.net/2019/03/10/how-to-setup-a-ghost-blog-contact-form/)!**

@@ -1,7 +1,7 @@
 ---
 title: Anything Under A 4 Star Google Rating Kills Small, Local Businesses
 date: 2019-02-18 12:25:03
-tags: [Google-Star-Rating, Local-Businesses, Local-Business, SEO, Small-Business, Local-SEO]
+tags: [google-star-rating, local-businesses, seo, small-business, local-seo]
 ---
 
 Many small, local businesses find themselves struggling in the digital age when the random angry customer can go online and spew hate. Little does the general public know that 99% of your customers leave happy!
