@@ -24,7 +24,7 @@ I think it's time to embrace asynchronous communication. There's a lot of advant
 
 Now more than ever it's going to be crucial to build a team that DOES embrace asynchronous communication and loves putting their thoughts into text.
 
-Those that do, will experience a huge jump in their teams productivity.
+Those that do, will experience a huge jump in their team's productivity.
 
 [1]: https://protonmail.com
 [2]: https://wire.com
