@@ -364,3 +364,9 @@ Go ahead and open charge.hbs in your text editor and add the following content t
 {% endcodeblock %}
 
 That's it! Go ahead and deploy your app to Heroku, test and re-deploy with live Stripe keys [like explained in the original post here](https://blog.stevelongoria.net/2019/02/26/setup-stripe-checkout-using-expressjs-heroku/).
+
+## Related Posts
+
+[How To Setup Recurring Payments With Stripe Checkout](https://blog.stevelongoria.net/2019/03/12/setup-recurring-payments-subscriptions-stripe-checkout/)
+[How To Setup Stripe Checkout Using Express.js & Heroku](https://blog.stevelongoria.net/2019/02/26/setup-stripe-checkout-using-expressjs-heroku/)
+[What is an Online Sales Funnel?](https://blog.stevelongoria.net/2019/05/08/what-is-an-online-sales-funnel/)
