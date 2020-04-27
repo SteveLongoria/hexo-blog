@@ -1,5 +1,5 @@
 ---
-title: How To Create An Audience In Google Analytics For Your Google Ad Remarketing Campaign
+title: How To Create A Google Ad Remarketing Audience In Google Analytics
 date: 2020-04-27 12:14:51
 tags: [google-analytics, remarketing-audience, google-ads, remarketing]
 ---
