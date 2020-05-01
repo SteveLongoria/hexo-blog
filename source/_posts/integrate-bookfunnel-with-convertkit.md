@@ -1,5 +1,5 @@
 ---
-title: How to Properly Integrate Your BookFunnel Opt-in Landing Page With ConvertKit
+title: How To Properly Integrate Your BookFunnel Opt-in Landing Page With ConvertKit
 date: 2020-05-01 13:45:32
 tags: [bookfunnel, convertkit, integrations]
 ---
