@@ -46,6 +46,8 @@ Now all you have to do is follow the steps at [Formspree.io](https://formspree.i
 
 That's it! You're all done. You now have a nifty, mobile responsive contact form for your Ghost Blog or anything really! :)
 
+[![Bidding](/content/blogtrafficguidebanner.jpg)](https://www.getdrip.com/forms/482178116/submissions/new)
+
 **Related Blog Posts**
 [Should You Submit Each New Blog Post To Google For Indexing?](https://blog.stevelongoria.net/2019/02/16/should-you-submit-each-new-blog-post-to-google-for-indexing/)
 [How To Add A Custom Drip Email Optin Form To Your Ghost Blog Theme](https://blog.stevelongoria.net/2019/01/17/custom-drip-optin-form-ghost-blog-theme/)
