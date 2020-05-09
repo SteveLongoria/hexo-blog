@@ -18,6 +18,6 @@ This is short-sighted! A restaurant risks losing more revenue by refusing to off
 
 The reduction in cash sales and tips can be remedied by marking up prices a little bit. If your customers truly value what you offer, they're not going to mind a little price increase to make sure you guys can keep the lights on and everyone involved can stay safer by not handling payments in person.
 
-Another huge advantage of online ordering is the ability to automatically capture a customer's email address. This is huge! Before it required an employee to remember to ask customers for their email address during checkout which never happens because it's difficult to take someone's email address verbally and email addresses aren't required for in-person orders.
+Another advantage of online ordering is the ability to automatically capture a customer's email address. This is huge! Before it required an employee to remember to ask customers for their email address during checkout which never happens because it's difficult to take someone's email address verbally and email addresses aren't required for in-person orders.
 
 Building your customer email list is important because existing customers are 7x more likely to buy from you than somebody who has never been to your restaurant and email is the perfect way to reach them. With email, the average open rate is over 20% whereas with Facebook you’re lucky to reach 6% of your fans/customers.
