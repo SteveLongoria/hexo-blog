@@ -1,7 +1,7 @@
 ---
 title: Should Restaurants Take Online Orders & Payments On Their Website?
 date: 2020-05-09 09:27:16
-tags: [restaurant, marketing, online-orders, website, online-payments]
+tags: [restaurants, marketing, online-orders, website, online-payments]
 ---
 
 Restaurants are struggling to stay afloat during the Covid-19 Pandemic. Some have decided to close up shop until the storm blows over and yet others have decided to stay open for takeout and deliveries.

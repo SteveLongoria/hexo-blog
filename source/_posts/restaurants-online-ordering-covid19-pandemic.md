@@ -1,5 +1,5 @@
 ---
-title: Restaurant's Need Online Ordering To Stay Afloat During The Pandemic
+title: Restaurants Need Online Ordering To Stay Afloat During The Pandemic
 date: 2020-03-28 13:07:50
 tags: [restaurants, online-ordering, covid19, website-orders]
 ---
