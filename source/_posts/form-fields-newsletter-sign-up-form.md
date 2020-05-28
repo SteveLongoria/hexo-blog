@@ -14,8 +14,6 @@ While it's true that simply asking for the email address can usually result in t
 
 3\. The current pain point for their business (sometimes this can be surmised from the content they've consumed on your website).
 
-Why is capturing this info helpful at the point of optin? Because then you can [segment][1] the subscribers and serve them more [personalized][2] content via email. Content that is based on who they are, the type of business they're in and the problem they're struggling with the most right now. It also makes your sales pitch much more targeted.
-
 The segmentation questions you set up for your business may be different. It's good to sit down and determine the different [segmentations][3] you want to focus on for your business.
 
 Some may not make sense and would be of no use.
@@ -26,7 +24,9 @@ Now, segmenting based on whether or not they own a cat or dog would be a useful 
 
 You could then send personalized content that just speaks to dog owners and personalized content that just speaks to the cat owners. This would be much more effective than simply sending them all content and marketing materials about their generic 'pet'.
 
-I encourage you to test both options to see if gathering the additional segmentation info at the point of optin will lower your conversion rate and by how much. If it's trivial then I'd recommend getting that additional segmentation data at the point of optin so all of your subscribers are properly segmented.
+That's why collecting this info at the point of optin is so helpful. Because then you can [segment][1] the subscribers and serve them more [personalized][2] content via email. Content that is based on who they are, the type of business they're in and the problem they're struggling with the most right now. It also makes your sales pitch much more targeted.
+
+I encourage you to test both to see if gathering the additional segmentation info at the point of optin will lower your conversion rate compared to asking only for the email address at optin. If it's trivial then I'd recommend getting that additional segmentation data at the point of optin so all of your subscribers are properly segmented.
 
 It is possible to segment an unsegmented list using a progressive profiling sequence along with '[trigger links][4]' but that's content for another blog post. The most ideal scenario is to segment at the point of optin as much as possible.
 
