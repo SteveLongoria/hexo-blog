@@ -46,7 +46,7 @@ Here's the code I changed on the post.hbs template so the newsletter sign-up cal
 
 And that's it, those are all of the top ways to integrate Drip into your Ghost blog. The Ghost theme I was using for Varpop is [Attila theme](https://github.com/zutrinken/attila) FYI.
 
-Next, learn [download the ultimate guide to SEO for bloggers](https://stevelongoria.net/guides/blog-traffic-guide).
+Next, [download the ultimate guide to SEO for bloggers](https://stevelongoria.net/guides/blog-traffic-guide).
 
 ## Related Posts
 
