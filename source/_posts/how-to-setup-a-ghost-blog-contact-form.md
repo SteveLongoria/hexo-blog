@@ -46,7 +46,7 @@ Now all you have to do is follow the steps at [Formspree.io](https://formspree.i
 
 That's it! You're all done. You now have a nifty, mobile responsive contact form for your Ghost Blog or anything really! :)
 
-Next, learn [how I was able to generate 500 visitors a day to one of my blogs](https://stevelongoria.net/guides/blog-traffic-guide).
+Next, learn [download the ultimate guide to SEO for bloggers](https://stevelongoria.net/guides/blog-traffic-guide).
 
 **Related Blog Posts**
 [Should You Submit Each New Blog Post To Google For Indexing?](https://blog.stevelongoria.net/2019/02/16/should-you-submit-each-new-blog-post-to-google-for-indexing/)
