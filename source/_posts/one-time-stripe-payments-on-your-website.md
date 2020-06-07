@@ -16,3 +16,5 @@ I highly recommend going through [this free online web development course](https
 
 After you get it up and running just don't forget to switch out your Stripe Development API Keys for your Production API Keys before deploying.
 
+Next, learn how to [design your SaaS login & sign up flow](https://stevelongoria.net/guides/saas-login-sign-up-flow-guide).
+

@@ -365,6 +365,8 @@ Go ahead and open charge.hbs in your text editor and add the following content t
 
 That's it! Go ahead and deploy your app to Heroku, test and re-deploy with live Stripe keys [like explained in the original post here](https://blog.stevelongoria.net/2019/02/26/setup-stripe-checkout-using-expressjs-heroku/).
 
+Next, learn how to [design your SaaS login & sign up flow](https://stevelongoria.net/guides/saas-login-sign-up-flow-guide).
+
 ## Related Posts
 
 [How To Setup Recurring Payments With Stripe Checkout](https://blog.stevelongoria.net/2019/03/12/setup-recurring-payments-subscriptions-stripe-checkout/)
