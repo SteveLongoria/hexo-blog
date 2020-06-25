@@ -4,7 +4,7 @@ date: 2020-06-24 22:45:22
 tags: [google-ads, call-conversions, conversion-tracking]
 ---
 
-Phone calls are probably the top key performance metric (KPI) for local business clients when managing a Google Ad campaign. It's easy to understand why. For many local businesses, calls are still their main sales channel. The fact of the matter is, it's still really common for local customers to call local businesses in our modern age.
+Phone calls are probably the top key performance indicator metric (KPI) for local business clients when managing a Google Ad campaign. It's easy to understand why. For many local businesses, calls are still their main sales channel. The fact of the matter is, it's still really common for local customers to call local businesses in our modern age.
 
 That's all good and well but this presents some challenges when tracking call conversions on your Google Ad campaign. It's not quite as simple and straight forward as tracking form submissions or online purchases.
 
