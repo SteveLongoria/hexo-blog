@@ -1,5 +1,5 @@
 ---
-title: How should you track website call conversions for your Google Ad campaign?
+title: How Should You Track Website Call Conversions For Your Google Ad Campaign?
 date: 2020-06-24 22:45:22
 tags: [google-ads, call-conversions, conversion-tracking]
 ---
