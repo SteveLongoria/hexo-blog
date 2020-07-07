@@ -89,6 +89,8 @@ input {
 	-webkit-border-radius: 0;
   padding: 0.5em 0.75em;
   width: 200px;
+  height: 30px;
+  border-radius: 5px 0 0 5px;
 }
 
 button {
@@ -96,6 +98,7 @@ button {
   color: #ffffff;
   background-color: #00667f; 
   width: 70px;
+  border-radius: 0 5px 5px 0;
   &:hover {
   	background-color: #4dc4ce
   }
