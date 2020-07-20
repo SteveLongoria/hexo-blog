@@ -14,7 +14,13 @@
   })();
 </script>
 <!-- end Drip -->
+<script>
+var urlParams = new URLSearchParams(window.location.search);
 
+const gclid = urlParams.get('gclid');
+document.getElementById("gclidInput").value = gclid;
+
+</script>
 <%- js('js/app.js') %>
 <%if (config.disqus_shortname){ %>
 <script>
