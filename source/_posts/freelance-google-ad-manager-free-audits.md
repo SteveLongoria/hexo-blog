@@ -1,5 +1,5 @@
 ---
-title: Should Freelance Google Ad Managers Offer Audits For Free?
+title: Should Freelance Google Ad Managers Offer Free Audits?
 date: 2020-08-03 18:57:04
 tags: [google-ads, freelance, audits]
 ---
