@@ -12,7 +12,7 @@ Still, I couldn't stop wondering if maybe I should try out working in-house for 
 
 Instead of waiting around for unemployment that may never materialize, I just got straight to work. I started hitting up my usual channels online for getting freelance work and to my surprise I started getting more clients than I ever had.
 
-Part of the reason I believe is due to the pandemic. More businesses and professionals are taking their online presence more seriously and re-examining their online strategy. Since that's the type of services I provide, I've seen an uptick in business.
+Part of the reason I believe is due to the pandemic. Most businesses and professionals are taking their online presence more seriously and re-examining their online strategy. Since that's the type of services I provide, I've seen an uptick in business.
 
 I've also started to dial in my marketing and sales strategy. Which has allowed me to close more leads. This has helped a lot as well.
 
