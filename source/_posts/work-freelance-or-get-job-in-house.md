@@ -18,9 +18,9 @@ I've also started to dial in my marketing and sales strategy. Which has allowed 
 
 Anyways... fast forward to today, I just had a great meeting with a prospect and I closed the deal. You get such a rush with sales and working as a solo freelancer, that I don't know if I could ever go back to working in-house.
 
-A lot of people consider a regular 9-5 job, working in-house for a company, to be the most stable and secure situation you can be in. They wonder how freelancers deal income volatility.
+A lot of people consider a regular 9-5 job, working in-house for a company, to be the most stable and secure situation you can be in. They wonder how freelancers deal with income volatility.
 
-That's not the way I see it. When you're working for one company, in-house, you risk being let go and being left with zero income. For a freelancer that has several clients, if they lose a couple clients it's not that big of a deal. They still have some income.
+That's not the way I see it. When you're working for one company, in-house, you risk being let go and being left with zero income. For a freelancer that has several clients, losing a couple clients is not that big of a deal. They still have some income.
 
 For this reason, I consider a freelance business to be more secure so long as you have enough clients and know how to find more whenever you need to.
 
