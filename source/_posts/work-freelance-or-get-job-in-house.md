@@ -6,7 +6,7 @@ tags: [freelance, in-house, jobs, marketing, sales]
 
 Should you get a job and work in-house or should you go freelance? This is the question I was constantly asking for the past several years. I've been in digital marketing for over 10 years now and for the bulk of that time, I've worked as a freelancer technically.
 
-Most of the time I'd have just one client that I devoted 30-40 hour per week to. As you can see, this is basically a job. I had struggled finding a regular source of clients for years. I tried a little bit of everything. Some of it worked and some of it didn't. Eventually, I started getting more clients and getting better at keeping my pipeline full.
+Most of the time I'd have just one client that I devoted 30-40 hour per week to. As you can see, this is basically a job without the benefits. I had struggled finding a regular source of clients for years. I tried a little bit of everything. Some of it worked and some of it didn't. Eventually, I started getting more clients and getting better at keeping my pipeline full.
 
 Still, I couldn't stop wondering if maybe I should try out working in-house for a change, you know a 'real job'. So late last year I decided, 'What the hell!?' and gave it a go. I got hired at a local tech company as a digital marketer. It was the first in-house position I had in quite sometime. It wasn't meant to be though because the pandemic hit a few months later and I was laid off.
 
