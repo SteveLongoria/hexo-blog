@@ -8,7 +8,7 @@ These days there are a million startups trying to make proposal creation easier 
 
 There's a lot to choose from and they all will have you spending a good chunk of change every month.
 
-They can also be rather complicated to set up, involve contracts (I don't use contracts unless it's work I got from Upwork), and sometimes even take a percentage per transaction.
+They can also be rather complicated to set up, involve contracts, and sometimes even take a percentage per transaction.
 
 Until recently I had been just using a template in Google Docs for creating my proposals. It's free and it looked good enough.
 
