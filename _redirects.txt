@@ -1,0 +1,26 @@
+# Redirects from what the browser requests to what we serve
+/                  
+/archives/           https://www.stevelongoria.net/blog
+/tags/Blogging/      https://www.stevelongoria.net/blog
+/tags/Blog/          https://www.stevelongoria.net/blog
+/tags/sales/         https://www.stevelongoria.net/post/what-is-an-online-sales-funnel
+/tags/clients/       https://www.stevelongoria.net/post/is-all-of-your-freelance-income-coming-from-a-single-client
+/tags/review/        https://www.stevelongoria.net/post/gatherkudos-review-alternatives
+/tags/HTTPS/         https://www.stevelongoria.net/post/i-enabled-ssl-but-when-i-type-in-my-url-it-still-shows-only-http
+/tags/Proposals/     https://www.stevelongoria.net/post/are-you-still-using-google-docs-for-your-freelance-business-proposals
+/tags/markdown/      https://www.stevelongoria.net/post/quickly-publish-blog-posts-in-markdown-without-having-to-write-markdown
+/tags/software/      https://www.stevelongoria.net/post/my-favorite-project-management-software-for-gettin-shit-done
+/tags/rightmessage/  https://www.stevelongoria.net/post/my-experience-using-rightmessage
+/tags/mailchimp/     https://www.stevelongoria.net/post/how-to-connect-your-html-contact-form-with-mailchimp
+/tags/posts/         https://www.stevelongoria.net/post/quickly-publish-blog-posts-in-markdown-without-having-to-write-markdown
+/tags/jobs/          https://www.stevelongoria.net/post/should-you-freelance-or-get-a-job-working-in-house
+/tags/Upsell/        https://www.stevelongoria.net/post/why-your-business-needs-to-start-upselling
+/tags/advertising/   https://www.stevelongoria.net/post/which-google-ad-campaign-type-should-you-select
+/tags/freelancer/    https://www.stevelongoria.net/post/should-you-freelance-or-get-a-job-working-in-house
+/tags/Stripe/        https://www.stevelongoria.net/post/how-to-setup-stripe-elements-payment-form
+/tags/icons/         https://www.stevelongoria.net/post/how-to-add-icons-to-your-webflow-buttons
+/tags/webflow/       https://www.stevelongoria.net/post/should-you-use-webflow-to-create-your-websites-and-landing-pages
+/tags/Freelance/     https://www.stevelongoria.net/post/is-all-of-your-freelance-income-coming-from-a-single-client
+/tags/agency/        https://www.stevelongoria.net/post/should-you-work-for-an-agency-or-freelance-on-your-own
+/tags/Payments/      https://www.stevelongoria.net/post/how-to-accept-one-time-payments-using-stripe-on-your-website
+/tags/Trackers/      https://www.stevelongoria.net/post/how-to-create-a-google-ad-remarketing-audience-in-google-analytics
