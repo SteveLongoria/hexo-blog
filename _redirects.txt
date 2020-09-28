@@ -1,7 +1,7 @@
 # Redirects from what the browser requests to what we serve
-/                  
-/archives/           https://www.stevelongoria.net/blog
-/tags/Blogging/      https://www.stevelongoria.net/blog
+/                    https://www.stevelongoria.net/blog
+/archives/           https://www.stevelongoria.net/blog 
+/tags/Blogging/      https://www.stevelongoria.net/blog  
 /tags/Blog/          https://www.stevelongoria.net/blog
 /tags/sales/         https://www.stevelongoria.net/post/what-is-an-online-sales-funnel
 /tags/clients/       https://www.stevelongoria.net/post/is-all-of-your-freelance-income-coming-from-a-single-client
@@ -24,3 +24,36 @@
 /tags/agency/        https://www.stevelongoria.net/post/should-you-work-for-an-agency-or-freelance-on-your-own
 /tags/Payments/      https://www.stevelongoria.net/post/how-to-accept-one-time-payments-using-stripe-on-your-website
 /tags/Trackers/      https://www.stevelongoria.net/post/how-to-create-a-google-ad-remarketing-audience-in-google-analytics
+/tags/weebly/        https://www.stevelongoria.net/post/how-to-embed-your-instagram-feed-onto-your-weebly-website
+/tags/Ranking/       https://www.stevelongoria.net/post/what-to-do-if-your-local-business-has-poor-google-rankings
+/tags/Gatherkudos/   https://www.stevelongoria.net/post/gatherkudos-review-alternatives
+/tags/conversion tracking/    https://www.stevelongoria.net/post/is-tracking-google-ad-call-conversions-enough-to-satisfy-your-client
+/tags/web-design/    https://www.stevelongoria.net/post/should-you-use-webflow-to-create-your-websites-and-landing-pages
+/tags/white-label/   https://www.stevelongoria.net/post/should-you-white-label-your-freelance-services-to-an-agency
+/tags/landing-pages/ https://www.stevelongoria.net/post/should-you-use-webflow-to-create-your-websites-and-landing-pages
+/tags/sales-funnel/  https://www.stevelongoria.net/post/what-is-an-online-sales-funnel
+/tags/Web-Development/        https://www.stevelongoria.net/post/should-you-use-webflow-to-create-your-websites-and-landing-pages
+/tags/call-conversions/       https://www.stevelongoria.net/post/tracking-call-button-clicks-on-your-website-as-a-google-ad-conversion
+/tags/project-management/     https://www.stevelongoria.net/post/my-favorite-project-management-software-for-gettin-shit-done
+/tags/food-delivery/ https://www.stevelongoria.net/post/should-restaurants-partner-with-food-delivery-apps-like-doordash-postmates
+/tags/task-management/        https://www.stevelongoria.net/post/my-favorite-project-management-software-for-gettin-shit-done
+/tags/google-ads/    https://www.stevelongoria.net/post/how-to-setup-your-google-search-ads-location-targeting
+/2018/07/30/forced-ssl/       https://www.stevelongoria.net/post/i-enabled-ssl-but-when-i-type-in-my-url-it-still-shows-only-http
+/2019/03/14/gatherkudos-review-alternatives/    https://www.stevelongoria.net/post/gatherkudos-review-alternatives
+/2018/08/11/ssl-chrome/       https://www.stevelongoria.net/post/i-enabled-ssl-but-when-i-type-in-my-url-it-still-shows-only-http
+/2018/07/23/tired-of-wordpress/     https://www.stevelongoria.net/post/is-wordpress-the-best-blogging-platform-for-seo
+/2018/07/28/drip-ghost-blog/  https://www.stevelongoria.net/post/how-to-setup-a-ghost-blog-contact-form
+/2019/10/24/top-3-clickfunnel-alternatives/   https://www.stevelongoria.net/post/top-3-clickfunnel-alternatives
+/2020/02/08/integrate-memberstack-with-convertkit/    https://www.stevelongoria.net/post/how-to-integrate-memberstack-with-convertkit
+/2019/11/27/my-experience-with-rightmessage/     https://www.stevelongoria.net/post/my-experience-using-rightmessage
+/2020/07/05/freelance-clients-sign-contract/     https://www.stevelongoria.net/post/should-you-have-your-freelance-clients-sign-a-contract
+/2018/09/15/case-study-increased-agency-sales/   https://www.stevelongoria.net/post/that-time-i-generated-a-970-return-on-ad-spend-using-google-adwords
+/2019/04/23/google-ads-daily-budget/     https://www.stevelongoria.net/post/how-to-determine-what-your-google-ads-budget-should-be
+/2019/07/24/my-experience-with-brave-browser/    https://www.stevelongoria.net/post/my-experience-with-brave-browser
+/2018/08/22/google-marketing-live-2018-highlights/   https://www.stevelongoria.net/post/why-does-your-google-ads-daily-budget-fluctuate-so-much
+/2019/06/07/google-ad-campaign-ad-schedule/      https://www.stevelongoria.net/post/what-should-your-google-ad-campaigns-ad-schedule-be
+/2019/01/05/has-chat-killed-email-marketing/     https://www.stevelongoria.net/post/has-chat-killed-email-marketing
+/2018/11/03/custom-drip-form-css-flexbox/    https://www.stevelongoria.net/post/how-to-create-a-custom-drip-optin-form-using-css-flexbox
+/2019/02/26/setup-stripe-checkout-using-expressjs-heroku/    https://www.stevelongoria.net/post/how-to-setup-stripe-checkout-using-express-js-heroku
+/2019/04/12/google-ads-location-targeting-options/     https://www.stevelongoria.net/post/google-ad-location-targeting-options-you-shouldnt-forget-about
+/2019/12/10/facebook-ads-q4-holiday-season/  https://www.stevelongoria.net/post/are-you-struggling-with-facebook-ads-during-the-q4-2019-holiday-season
