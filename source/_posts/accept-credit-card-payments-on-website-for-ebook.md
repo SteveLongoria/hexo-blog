@@ -8,7 +8,7 @@ I haven't launched many ebooks to date, but when I have I typically would use Gu
 
 There are other 3rd party solutions I could use but they would have me paying a monthly price just to integrate with the Stripe API and accept credit card payments on my website.
 
-[I learned to code just to be able to work with the Stripe API directly.][1] This way I wouldn't have to rely on 3rd party services as much. This setup still required server-side hosting which is going to cost you about $10/mo starting.
+[I learned to code a bit just to be able to work with the Stripe API directly.][1] This way I wouldn't have to rely on 3rd party services as much. This setup still required server-side hosting which is going to cost you about $10/mo starting.
 
 You may say, "Well that's not bad Steve! It's only $10/mo!".
 
