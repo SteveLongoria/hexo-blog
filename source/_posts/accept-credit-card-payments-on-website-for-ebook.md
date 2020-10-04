@@ -1,5 +1,5 @@
 ---
-title: The easy way to accept credit card payments on your website
+title: The Easy Way To Accept Credit Card Payments On Your Website
 date: 2020-10-03 13:29:02
 tags: [payment-processing, stripe, web-development, sales-funnel]
 ---
