@@ -24,4 +24,6 @@ Here's the breakdown for my website:
 
 This is likely to be the situation for the foreseeable future. I can see a percentage of the B2B audience adopting bigger tablets like the iPad Pro to conduct their work but most will likely still opt for a full desktop or laptop.
 
-This means mobile page speed and mobile SEO isn't as important for you since most of your audience will be using powerful computers to access your website.
+This means mobile page speed and mobile SEO isn’t as important for you since most of your audience will be using powerful computers with faster internet to access your website. And since [Google SERPs can differ by up 79%](https://www.51blocks.com/the-difference-between-googles-desktop-mobile-algorithms/) when comparing mobile devices with desktop computers, it's possible to still rank well in Google Desktop SERPs even if you don't rank well in Google's Mobile SERPs.
+
+With that said, you still want your website to load as fast as possible without sacrificing design too much. Just like with everything in life, it's about striking a balance.
