@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="<%= config.language ? config.language : 'en' %>">
+
+<!-- Head tag -->
+<%- partial('_partial/head') %>
+
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PTZZKDL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  <!-- Nav -->
+  <%- partial('_partial/nav') %>
+
+  <!-- Main Content -->
+  <%- body %>
+
+  <!-- Footer -->
+  <%- partial('_partial/footer') %>
+
+  <!-- After footer scripts -->
+  <%- partial('_partial/after-footer') %>
+
+
+</body>
+
+</html>
