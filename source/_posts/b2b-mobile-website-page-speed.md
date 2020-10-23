@@ -6,7 +6,7 @@ tags: [B2B, website, page-speed]
 
 Everyone says you need your website to be blazing fast on mobile. There's just no limit to how fast you should make it. If it can load in 1ms then do it. This is because many mobile phone users are still on 3g internet speeds. A [study conducted by OpenSignal](https://www.opensignal.com/2019/12/18/how-to-hasten-us-3g-switch-off-to-accelerate-5g) revealed that roughly 20% of Americans still use 3g internet, and that was published in 2019.
 
-Google has made it known that page speed has an impact on your mobile rank in the SERPs.
+[Google has also made it known](https://searchengineland.com/google-speed-update-page-speed-will-become-ranking-factor-mobile-search-289904) that page speed has an impact on your mobile rank in the SERPs.
 
 Unfortunately, if you take this advice to extremes you're likely to have a website that resembles a text document more than a website that exists in 2020. 
 
