@@ -1,3 +1,0 @@
-# Redirects from what the browser requests to what we serve
-
-/2020/10/22/b2b-mobile-website-page-speed/             https://freak.marketing/b2b-mobile-website-page-speed/
