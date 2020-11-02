@@ -7,3 +7,6 @@
 [[redirects]]
   from = "/2019/02/26/setup-stripe-checkout-using-expressjs-heroku/"
   to = "https://www.stevelongoria.net/post/how-to-setup-stripe-checkout-using-express-js-heroku"
+[[redirects]]
+  from = "/tags/stripe/"
+  to = "https://www.stevelongoria.net/category/stripe"
