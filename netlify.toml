@@ -16,3 +16,9 @@
 [[redirects]]
   from = "/tags/payments/"
   to = "https://www.stevelongoria.net/category/stripe"
+[[redirects]]
+  from = "/tags/handlebarsjs/"
+  to = "https://www.stevelongoria.net/category/web-development"
+[[redirects]]
+  from = "/tags/expressjs/"
+  to = "https://www.stevelongoria.net/category/web-development"
