@@ -37,3 +37,15 @@
 [[redirects]]
   from = "/tags/weebly/"
   to = "https://freak.marketing/tag/weebly/"
+[[redirects]]
+  from = "/2018/07/28/drip-ghost-blog/"
+  to = "https://freak.marketing/integrate-drip-into-your-ghost-blog/"
+[[redirects]]
+  from = "/tags/drip/"
+  to = "https://freak.marketing/tag/email-marketing/"
+[[redirects]]
+  from = "/tags/ghost/"
+  to = "https://freak.marketing/tag/ghost-blog/"
+[[redirects]]
+  from = "/tags/blog/"
+  to = "https://freak.marketing/tag/blogging/"
