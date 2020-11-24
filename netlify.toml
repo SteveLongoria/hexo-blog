@@ -12,7 +12,7 @@
   to = "https://www.stevelongoria.net/category/stripe"
 [[redirects]]
   from = "/2019/03/18/how-to-setup-stripe-elements-payment-form/"
-  to = "https://www.stevelongoria.net/post/how-to-setup-stripe-elements-payment-form"
+  to = "https://freak.marketing/how-to-setup-stripe-elements-payment-form/"
 [[redirects]]
   from = "/tags/payments/"
   to = "https://www.stevelongoria.net/category/stripe"
