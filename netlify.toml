@@ -3,7 +3,7 @@
   to = "https://freak.marketing/b2b-mobile-website-page-speed/"
 [[redirects]]
   from = "/2019/03/10/how-to-setup-a-ghost-blog-contact-form/"
-  to = "https://www.stevelongoria.net/post/how-to-setup-a-ghost-blog-contact-form"
+  to = "https://freak.marketing/how-to-setup-a-ghost-blog-contact-form/"
 [[redirects]]
   from = "/2019/02/26/setup-stripe-checkout-using-expressjs-heroku/"
   to = "https://www.stevelongoria.net/post/how-to-setup-stripe-checkout-using-express-js-heroku"
