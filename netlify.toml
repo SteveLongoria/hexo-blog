@@ -73,3 +73,18 @@
 [[redirects]]
   from = "/tags/automation/"
   to = "https://freak.marketing/tag/marketing-automation/"
+[[redirects]]
+  from = "/2020/02/08/integrate-memberstack-with-convertkit/"
+  to = "https://freak.marketing/integrate-memberstack-with-convertkit/"
+[[redirects]]
+  from = "/tags/membership-sites/"
+  to = "https://freak.marketing/tag/membership-site/"
+[[redirects]]
+  from = "/tags/memberstack/"
+  to = "https://freak.marketing/tag/memberstack/"
+[[redirects]]
+  from = "/tags/convertkit/"
+  to = "https://freak.marketing/tag/convertkit/"
+[[redirects]]
+  from = "/tags/marketing-automation/"
+  to = "https://freak.marketing/tag/marketing-automation/"
