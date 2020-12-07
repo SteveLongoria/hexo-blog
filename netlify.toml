@@ -50,7 +50,7 @@
   from = "/tags/blog/"
   to = "https://freak.marketing/tag/blogging/"
 [[redirects]]
-  from = "/2019/02/15/how-long-does-it-take-to-get-organic-traffic/"
+  from = "https://blog.stevelongoria.net/2019/02/15/how-long-does-it-take-to-get-organic-traffic/"
   to = "https://freak.marketing/how-long-generating-organic-google-traffic/"
 [[redirects]]
   from = "/tags/google/"
