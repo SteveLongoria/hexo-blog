@@ -88,3 +88,12 @@
 [[redirects]]
   from = "/tags/marketing-automation/"
   to = "https://freak.marketing/tag/marketing-automation/"
+[[redirects]]
+  from = "/2019/02/08/add-twitter-share-button-to-hexo-blog-posts/"
+  to = "https://freak.marketing/add-a-twitter-share-button-to-each-hexo-blog-post/"
+[[redirects]]
+  from = "/2019/08/14/facebook-messenger-ad-manychat-json-growth-tool/"
+  to = "https://freak.marketing/tag/social-media-marketing/"
+[[redirects]]
+  from = "/tags/twitter/"
+  to = "https://freak.marketing/tag/twitter/"
